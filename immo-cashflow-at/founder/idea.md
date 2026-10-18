@@ -1,7 +1,17 @@
-# Immo-Cashflow (Arbeitsname)
+# Marille (Immo-Cashflow)
 
-- What it is: Eine App/Web-Plattform, mit der private Immobilieninvestoren in Österreich prüfen, ob sich ein Objekt rentiert und ob ihr monatlicher Cashflow nach der Kreditrate positiv oder negativ ist, und ihr Immobilienportfolio tracken (Wert, Tilgung, Restschuld).
+- What it is: Eine fertig gebaute Web-App (marille.netlify.app), mit der private Immobilieninvestoren in Österreich prüfen, ob sich eine Wohnung rentiert und ob ihr monatlicher Cashflow nach der Kreditrate positiv oder negativ ist (Deal-Analyse), und ihr Immobilienportfolio tracken (Wert, Eigentumsanteil, Tilgung, Restschuld, Cashflow pro Monat).
 - Who it is for: Erstinvestoren in Österreich, die gerade ihre erste Vorsorge- bzw. Anlagewohnung suchen oder gekauft haben.
-- What it sells, at what price: Zugang zur Plattform (Deal-Analyse mit Österreich-spezifischen Kaufnebenkosten, Steuern und Kredit; Portfolio-Tracking) für 19 € pro Jahr. Ob es daneben eine Gratisversion gibt, ist noch offen.
-- Where and how: Online, ganz Österreich. Vertrieb und Kanäle noch offen.
-- Budget and constraints: Noch offen (Startbudget, Zeit, Team und Entwicklungskosten wurden noch nicht genannt).
+- What it sells, at what price: Zugang zur Plattform für 19 € pro Jahr (Deal-Analyse + Portfolio-Tracking). Ob es daneben eine Gratisversion gibt, ist noch offen.
+- Where and how: Online (Web-App), ganz Österreich. Vertrieb und Kanäle noch offen.
+- Budget and constraints: Gründer arbeitet seit Anfang 2026 allein daran und hat die App selbst mit Claude Code gebaut. Bisher rund 300 € für Abos ausgegeben (Claude, Supabase, Netlify). Weiteres Budget und Stunden pro Woche noch offen.
+
+## Was die App heute kann (aus Screenshots und zwei Deal-Reports vom 18.10.2026)
+- Deal-Analyse mit Tabs Überblick, Bank, Cashflow, Details.
+- Investment-Score 0-100 aus Rendite (45 %), Risiko (25 %), Substanz (15 %), Lage (15 %), mit Ampel von "Vorsicht" bis "Top" und Textbewertung.
+- Österreichische Kaufnebenkosten einzeln: Grunderwerbsteuer, Maklercourtage, Grundbucheintragung, Kaufvertragserrichtung, Pfandrechtseintragung.
+- Bank-Kennzahlen: LTV auf Kaufpreis und Gesamtinvestition, Beleihungsauslauf auf Bankwert, DSCR, Annuität, Zinsbindung, Anschlusszins-Annahme.
+- Cashflow-Kette von Kaltmiete über BK/Rücklage, Annuität und Steuer bis Netto, Tilgung und "realer Vermögensaufbau"; Mietausfall-Puffer; Cashflow-Projektion mit Mietindexierung und Break-even-Jahr.
+- PDF-Deal-Report (14 Seiten) und "In Portfolio übernehmen".
+- Portfolio: Gesamtwert, Eigentumsanteil, Restschuld, nächster Tilgungs-Meilenstein, Monatsbilanz (Tilgung, Cashflow, Marktwert).
+- Der Gründer nutzt es selbst mit zwei eigenen Wohnungen in Wien.
