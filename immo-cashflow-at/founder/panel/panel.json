@@ -1,94 +1,89 @@
 {
  "n": 20,
- "seed": 646855,
+ "seed": 555280,
  "customer": {
-  "business": "Immo-Cashflow-Plattform für private Immobilieninvestoren in Österreich (Deal-Analyse + Portfolio-Tracking, Freemium)",
-  "target": "Private Immobilieninvestoren in Österreich, 28 bis 60, die eine Vorsorgewohnung oder Zinshaus-Anteile kaufen wollen oder schon 1 bis 10 vermietete Objekte mit Kredit besitzen",
-  "where": "Österreich, v. a. Wien, Graz, Linz, Salzburg; Einkommen in Euro brutto pro Jahr",
+  "business": "Marille: Web-App für Erstinvestoren in Österreich (Deal-Analyse vor dem Kauf + Portfolio-Tracking danach), 19 € pro Jahr",
+  "target": "Erstinvestoren in Österreich, 25 bis 45, die ihre erste Vorsorge- oder Anlagewohnung suchen oder sie in den letzten zwölf Monaten gekauft haben, Schwerpunkt Wien",
+  "where": "Österreich, Schwerpunkt Wien; Einkommen in Euro brutto pro Jahr",
   "age": [
-   28,
-   60
+   25,
+   45
   ],
   "segments": [
    {
-    "name": "Einsteiger vor dem ersten Kauf (sucht gerade die erste Vorsorgewohnung)",
-    "share": 0.45,
+    "name": "Sucht gerade die erste Anlagewohnung (Besichtigungen laufen)",
+    "share": 0.55,
     "income": [
-     42000,
-     75000
+     40000,
+     90000
     ]
    },
    {
-    "name": "Kleinvermieter mit 1 bis 3 Wohnungen und laufenden Krediten",
-    "share": 0.35,
+    "name": "Hat die erste Anlagewohnung in den letzten 12 Monaten gekauft",
+    "share": 0.25,
     "income": [
-     60000,
-     110000
+     45000,
+     90000
     ]
    },
    {
-    "name": "Fortgeschrittener Investor mit 4 bis 10 Objekten",
+    "name": "Überlegt noch, ob eine Anlagewohnung überhaupt in Frage kommt",
     "share": 0.2,
     "income": [
-     95000,
-     220000
+     40000,
+     75000
     ]
    }
   ],
   "behaviours": [
    {
     "name": "Excel-Bastler",
-    "share": 0.22,
-    "how": "Hat sich eine eigene Excel-Tabelle gebaut und ist stolz darauf."
+    "share": 0.2,
+    "how": "Baut sich lieber selbst eine Tabelle, als für Software zu zahlen."
    },
    {
     "name": "Finanz-Content-Konsument",
-    "share": 0.18,
+    "share": 0.2,
     "how": "Schaut Finanzfluss, hört Immo-Podcasts, probiert neue Finanz-Apps aus."
    },
    {
-    "name": "Gratis-Nutzer",
-    "share": 0.16,
-    "how": "Nimmt jede Gratisversion mit, zahlt fast nie für Software."
+    "name": "Verlässt sich auf Profis",
+    "share": 0.18,
+    "how": "Lässt Bankberater, Kreditvermittler oder Makler rechnen."
    },
    {
-    "name": "Verlässt sich auf Profis",
-    "share": 0.14,
-    "how": "Lässt Bankberater, Makler oder Steuerberater rechnen."
+    "name": "Gratis-Nutzer",
+    "share": 0.15,
+    "how": "Nimmt die kostenlosen Online-Rechner und zahlt fast nie für Software."
+   },
+   {
+    "name": "Vorsichtiger Prüfer",
+    "share": 0.15,
+    "how": "Will wissen, wer dahintersteht, und liest Bewertungen, bevor er Daten eingibt."
    },
    {
     "name": "Bereits Parqet-Nutzer",
     "share": 0.12,
-    "how": "Trackt Aktien und ETFs in Parqet und will alles an einem Ort."
-   },
-   {
-    "name": "Vorsichtiger Prüfer",
-    "share": 0.1,
-    "how": "Liest Bewertungen, will wissen, wer dahintersteht, bevor er Daten eingibt."
-   },
-   {
-    "name": "Abo-Müde",
-    "share": 0.08,
-    "how": "Kündigt laufend Abos und hasst monatliche Kosten."
+    "how": "Trackt ETFs in Parqet und will alles an einem Ort."
    }
   ],
   "objections": [
-   "Meine Excel-Tabelle kann das auch",
-   "Die Bank und der Makler rechnen mir das sowieso vor",
-   "Noch ein Abo, das ich vergesse zu kündigen",
-   "Stimmen die Zahlen wirklich für Österreich (Grunderwerbsteuer, Richtwertmiete, Afa, Rücklage)?",
-   "Ich kaufe nur alle paar Jahre ein Objekt, wozu monatlich zahlen?",
-   "Ich gebe meine Kredit- und Vermögensdaten nicht einer unbekannten App",
-   "29 Euro für ein PDF ist viel",
-   "Wer steht dahinter, ist das seriös?"
+   "Es gibt kostenlose Vorsorgewohnungs-Rechner für Österreich, wozu zahlen?",
+   "Ich kaufe einmal eine Wohnung, wozu ein Jahresabo?",
+   "Die Bank und der Kreditvermittler rechnen mir das sowieso vor",
+   "Keine Gratisversion, ich kann es vorher nicht ausprobieren",
+   "Stimmen die Zahlen wirklich für Österreich (Grunderwerbsteuer, Eintragungsgebühr, AfA, Mietpreisdeckel)?",
+   "Wer steht dahinter, ist das seriös, und wo landen meine Kreditdaten?",
+   "Meine Excel-Tabelle reicht",
+   "19 Euro sind so billig, kann das gut sein?"
   ],
   "habits": [
    "du scrollst abends durch willhaben-Immobilieninserate",
-   "du hast nächste Woche einen Besichtigungstermin für eine Vorsorgewohnung",
-   "du sitzt einmal im Jahr mit dem Steuerberater über die Vermietungseinkünfte",
-   "du checkst sonntags dein Depot in einer Finanz-App",
-   "dein Kredit läuft variabel und die Zinsen machen dir Sorgen"
+   "du hast nächste Woche einen Besichtigungstermin",
+   "du hast nächsten Monat das Finanzierungsgespräch bei der Bank",
+   "du checkst sonntags dein ETF-Depot in einer App",
+   "du hast vor ein paar Monaten gekauft und fragst dich, ob sich die Wohnung rechnet"
   ]
  },
- "pitch": "Eine neue Plattform (App und Web) für private Immobilieninvestoren in Österreich.\nDeal-Analyse: Kaufpreis, Nebenkosten, Miete und Kredit eingeben, und du siehst, ob das Objekt sich rentiert und ob dein monatlicher Cashflow nach der Kreditrate positiv oder negativ ist.\nPortfolio-Tracking (ähnlich wie Parqet oder Finanzfluss, aber für Immobilien): was deine Objekte wert sind, wie viel schon getilgt ist und wie viel Kredit noch offen ist.\nGratis zum Download, unbegrenzt viele Deal-Analysen. In der Gratisversion werden nicht alle Kennzahlen angezeigt.\nVollständiger PDF-Export einer Analyse: 29 € einmalig. Oder alle Funktionen inklusive Portfolio-Tracking: 7,99 € pro Monat.\n(Die Preisfragen unten beziehen sich auf das Monatsabo.)"
+ "pitch": "Marille, eine Web-App für Erstinvestoren in Österreich.\nDeal-Analyse vor dem Kauf: Kaufpreis, Miete und Kredit eingeben. Du siehst österreichische Kaufnebenkosten einzeln (Grunderwerbsteuer, Grundbuch, Pfandrecht, Makler, Vertrag), deinen monatlichen Cashflow nach Kreditrate und Steuer, wie viel die Tilgung an Vermögen aufbaut, Bank-Kennzahlen wie Beleihungsauslauf und einen Investment-Score von 0 bis 100. Dazu ein PDF-Report für das Bankgespräch.\nNach dem Kauf: Mit einem Klick ins Portfolio übernehmen und sehen, was deine Wohnung wert ist, wie viel getilgt ist, wie viel Kredit offen ist und was sie jeden Monat bringt.\nPreis: 19 € pro Jahr für alles. Es gibt keine Gratisversion.\n(Die Preisfragen unten beziehen sich auf den Jahrespreis.)"
 }

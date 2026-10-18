@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Ethan",
+  "age": 50,
+  "segment": "Einsteiger vor dem ersten Kauf (sucht gerade die erste Vorsorgewohnung)",
+  "income": 53000,
+  "behaviour": "Finanz-Content-Konsument",
+  "behaviour_how": "Schaut Finanzfluss, hört Immo-Podcasts, probiert neue Finanz-Apps aus.",
+  "objection": "Stimmen die Zahlen wirklich für Österreich (Grunderwerbsteuer, Richtwertmiete, Afa, Rücklage)?",
+  "habit": "du sitzt einmal im Jahr mit dem Steuerberater über die Vermietungseinkünfte"
+ },
+ {
+  "id": "P002",
+  "name": "Emil",
+  "age": 35,
+  "segment": "Kleinvermieter mit 1 bis 3 Wohnungen und laufenden Krediten",
+  "income": 95000,
+  "behaviour": "Finanz-Content-Konsument",
+  "behaviour_how": "Schaut Finanzfluss, hört Immo-Podcasts, probiert neue Finanz-Apps aus.",
+  "objection": "29 Euro für ein PDF ist viel",
+  "habit": "du checkst sonntags dein Depot in einer Finanz-App"
+ },
+ {
+  "id": "P003",
+  "name": "Mei",
+  "age": 28,
+  "segment": "Einsteiger vor dem ersten Kauf (sucht gerade die erste Vorsorgewohnung)",
+  "income": 70000,
+  "behaviour": "Verlässt sich auf Profis",
+  "behaviour_how": "Lässt Bankberater, Makler oder Steuerberater rechnen.",
+  "objection": "Stimmen die Zahlen wirklich für Österreich (Grunderwerbsteuer, Richtwertmiete, Afa, Rücklage)?",
+  "habit": "du hast nächste Woche einen Besichtigungstermin für eine Vorsorgewohnung"
+ },
+ {
+  "id": "P004",
+  "name": "Yara",
+  "age": 54,
+  "segment": "Fortgeschrittener Investor mit 4 bis 10 Objekten",
+  "income": 119000,
+  "behaviour": "Excel-Bastler",
+  "behaviour_how": "Hat sich eine eigene Excel-Tabelle gebaut und ist stolz darauf.",
+  "objection": "Meine Excel-Tabelle kann das auch",
+  "habit": "du hast nächste Woche einen Besichtigungstermin für eine Vorsorgewohnung"
+ },
+ {
+  "id": "P005",
+  "name": "Ivy",
+  "age": 48,
+  "segment": "Fortgeschrittener Investor mit 4 bis 10 Objekten",
+  "income": 165000,
+  "behaviour": "Gratis-Nutzer",
+  "behaviour_how": "Nimmt jede Gratisversion mit, zahlt fast nie für Software.",
+  "objection": "Noch ein Abo, das ich vergesse zu kündigen",
+  "habit": "dein Kredit läuft variabel und die Zinsen machen dir Sorgen"
+ },
+ {
+  "id": "P006",
+  "name": "Raj",
+  "age": 33,
+  "segment": "Fortgeschrittener Investor mit 4 bis 10 Objekten",
+  "income": 205000,
+  "behaviour": "Finanz-Content-Konsument",
+  "behaviour_how": "Schaut Finanzfluss, hört Immo-Podcasts, probiert neue Finanz-Apps aus.",
+  "objection": "Wer steht dahinter, ist das seriös?",
+  "habit": "du scrollst abends durch willhaben-Immobilieninserate"
+ },
+ {
+  "id": "P007",
+  "name": "Farah",
+  "age": 41,
+  "segment": "Kleinvermieter mit 1 bis 3 Wohnungen und laufenden Krediten",
+  "income": 103000,
+  "behaviour": "Bereits Parqet-Nutzer",
+  "behaviour_how": "Trackt Aktien und ETFs in Parqet und will alles an einem Ort.",
+  "objection": "Stimmen die Zahlen wirklich für Österreich (Grunderwerbsteuer, Richtwertmiete, Afa, Rücklage)?",
+  "habit": "du sitzt einmal im Jahr mit dem Steuerberater über die Vermietungseinkünfte"
+ },
+ {
+  "id": "P008",
+  "name": "Diego",
+  "age": 41,
+  "segment": "Einsteiger vor dem ersten Kauf (sucht gerade die erste Vorsorgewohnung)",
+  "income": 58000,
+  "behaviour": "Vorsichtiger Prüfer",
+  "behaviour_how": "Liest Bewertungen, will wissen, wer dahintersteht, bevor er Daten eingibt.",
+  "objection": "Wer steht dahinter, ist das seriös?",
+  "habit": "du hast nächste Woche einen Besichtigungstermin für eine Vorsorgewohnung"
+ },
+ {
+  "id": "P009",
+  "name": "Tess",
+  "age": 34,
+  "segment": "Kleinvermieter mit 1 bis 3 Wohnungen und laufenden Krediten",
+  "income": 101000,
+  "behaviour": "Finanz-Content-Konsument",
+  "behaviour_how": "Schaut Finanzfluss, hört Immo-Podcasts, probiert neue Finanz-Apps aus.",
+  "objection": "29 Euro für ein PDF ist viel",
+  "habit": "du hast nächste Woche einen Besichtigungstermin für eine Vorsorgewohnung"
+ },
+ {
+  "id": "P010",
+  "name": "Kira",
+  "age": 56,
+  "segment": "Einsteiger vor dem ersten Kauf (sucht gerade die erste Vorsorgewohnung)",
+  "income": 61000,
+  "behaviour": "Excel-Bastler",
+  "behaviour_how": "Hat sich eine eigene Excel-Tabelle gebaut und ist stolz darauf.",
+  "objection": "Meine Excel-Tabelle kann das auch",
+  "habit": "du checkst sonntags dein Depot in einer Finanz-App"
+ },
+ {
+  "id": "P011",
+  "name": "Sara",
+  "age": 40,
+  "segment": "Fortgeschrittener Investor mit 4 bis 10 Objekten",
+  "income": 119000,
+  "behaviour": "Verlässt sich auf Profis",
+  "behaviour_how": "Lässt Bankberater, Makler oder Steuerberater rechnen.",
+  "objection": "29 Euro für ein PDF ist viel",
+  "habit": "du scrollst abends durch willhaben-Immobilieninserate"
+ },
+ {
+  "id": "P012",
+  "name": "Fatima",
+  "age": 30,
+  "segment": "Kleinvermieter mit 1 bis 3 Wohnungen und laufenden Krediten",
+  "income": 63000,
+  "behaviour": "Gratis-Nutzer",
+  "behaviour_how": "Nimmt jede Gratisversion mit, zahlt fast nie für Software.",
+  "objection": "Noch ein Abo, das ich vergesse zu kündigen",
+  "habit": "dein Kredit läuft variabel und die Zinsen machen dir Sorgen"
+ },
+ {
+  "id": "P013",
+  "name": "June",
+  "age": 35,
+  "segment": "Kleinvermieter mit 1 bis 3 Wohnungen und laufenden Krediten",
+  "income": 109000,
+  "behaviour": "Excel-Bastler",
+  "behaviour_how": "Hat sich eine eigene Excel-Tabelle gebaut und ist stolz darauf.",
+  "objection": "Noch ein Abo, das ich vergesse zu kündigen",
+  "habit": "du hast nächste Woche einen Besichtigungstermin für eine Vorsorgewohnung"
+ },
+ {
+  "id": "P014",
+  "name": "Kai",
+  "age": 56,
+  "segment": "Einsteiger vor dem ersten Kauf (sucht gerade die erste Vorsorgewohnung)",
+  "income": 47000,
+  "behaviour": "Excel-Bastler",
+  "behaviour_how": "Hat sich eine eigene Excel-Tabelle gebaut und ist stolz darauf.",
+  "objection": "Wer steht dahinter, ist das seriös?",
+  "habit": "du hast nächste Woche einen Besichtigungstermin für eine Vorsorgewohnung"
+ },
+ {
+  "id": "P015",
+  "name": "Sana",
+  "age": 53,
+  "segment": "Kleinvermieter mit 1 bis 3 Wohnungen und laufenden Krediten",
+  "income": 69000,
+  "behaviour": "Gratis-Nutzer",
+  "behaviour_how": "Nimmt jede Gratisversion mit, zahlt fast nie für Software.",
+  "objection": "Noch ein Abo, das ich vergesse zu kündigen",
+  "habit": "du sitzt einmal im Jahr mit dem Steuerberater über die Vermietungseinkünfte"
+ },
+ {
+  "id": "P016",
+  "name": "Olivia",
+  "age": 49,
+  "segment": "Einsteiger vor dem ersten Kauf (sucht gerade die erste Vorsorgewohnung)",
+  "income": 58000,
+  "behaviour": "Vorsichtiger Prüfer",
+  "behaviour_how": "Liest Bewertungen, will wissen, wer dahintersteht, bevor er Daten eingibt.",
+  "objection": "Noch ein Abo, das ich vergesse zu kündigen",
+  "habit": "du hast nächste Woche einen Besichtigungstermin für eine Vorsorgewohnung"
+ },
+ {
+  "id": "P017",
+  "name": "Levi",
+  "age": 50,
+  "segment": "Kleinvermieter mit 1 bis 3 Wohnungen und laufenden Krediten",
+  "income": 108000,
+  "behaviour": "Bereits Parqet-Nutzer",
+  "behaviour_how": "Trackt Aktien und ETFs in Parqet und will alles an einem Ort.",
+  "objection": "Die Bank und der Makler rechnen mir das sowieso vor",
+  "habit": "du sitzt einmal im Jahr mit dem Steuerberater über die Vermietungseinkünfte"
+ },
+ {
+  "id": "P018",
+  "name": "Bilal",
+  "age": 54,
+  "segment": "Einsteiger vor dem ersten Kauf (sucht gerade die erste Vorsorgewohnung)",
+  "income": 54000,
+  "behaviour": "Abo-Müde",
+  "behaviour_how": "Kündigt laufend Abos und hasst monatliche Kosten.",
+  "objection": "29 Euro für ein PDF ist viel",
+  "habit": "du hast nächste Woche einen Besichtigungstermin für eine Vorsorgewohnung"
+ },
+ {
+  "id": "P019",
+  "name": "Freya",
+  "age": 30,
+  "segment": "Einsteiger vor dem ersten Kauf (sucht gerade die erste Vorsorgewohnung)",
+  "income": 69000,
+  "behaviour": "Verlässt sich auf Profis",
+  "behaviour_how": "Lässt Bankberater, Makler oder Steuerberater rechnen.",
+  "objection": "Die Bank und der Makler rechnen mir das sowieso vor",
+  "habit": "du checkst sonntags dein Depot in einer Finanz-App"
+ },
+ {
+  "id": "P020",
+  "name": "Lucia",
+  "age": 59,
+  "segment": "Einsteiger vor dem ersten Kauf (sucht gerade die erste Vorsorgewohnung)",
+  "income": 47000,
+  "behaviour": "Abo-Müde",
+  "behaviour_how": "Kündigt laufend Abos und hasst monatliche Kosten.",
+  "objection": "Wer steht dahinter, ist das seriös?",
+  "habit": "du sitzt einmal im Jahr mit dem Steuerberater über die Vermietungseinkünfte"
+ }
+]

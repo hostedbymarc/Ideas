@@ -1,13 +1,13 @@
 {
   "id": "P020",
-  "buys": false,
-  "purchases_first_month": 0,
+  "buys": true,
+  "purchases_first_month": 1,
   "reason_code": "need",
-  "reason": "Ich hab ja noch gar keine Wohnung, also brauch ich kein Portfolio-Tracking, und für ein paar Deal-Analysen reicht mir die Gratisversion. Noch ein Monatsabo, das ich dann wieder kündigen muss, kommt mir nicht ins Haus.",
-  "objection": "Wer steht dahinter? Wenn eine unbekannte App mir sagt, dass sich eine Wohnung rentiert, und das stimmt nicht, dann hab ich einen Kredit über 25 Jahre am Hals. Da vertrau ich lieber meinem Steuerberater.",
-  "would_change_my_mind": "Wenn ich tatsächlich eine konkrete Wohnung kaufe und die Analyse nachweislich von einem österreichischen Steuerberater oder Fachmann geprüft ist, würde ich vielleicht einmal die 29 € für den PDF-Export zahlen, aber kein Abo.",
-  "price_too_cheap": 1,
-  "price_cheap": 2.99,
-  "price_expensive": 4.99,
-  "price_too_expensive": 7.99
+  "reason": "Ich bin gerade mitten in den Besichtigungen und rechne jede Wohnung in einer zusammengeflickten Excel-Tabelle durch. 19 Euro im Jahr sind weniger als ein Abendessen, das probier ich einfach aus, auch wenn es keine Gratisversion gibt.",
+  "objection": "19 Euro sind so billig, dass ich mich frage, ob die Steuerberechnung und die Kaufnebenkosten wirklich stimmen oder ob das ein Hobbyprojekt ist, das in einem Jahr wieder weg ist. Wenn die Zahlen falsch sind, ist mir der PDF-Report fürs Bankgespräch eher peinlich als hilfreich.",
+  "would_change_my_mind": "Wenn ich vorher ein Beispiel-Report oder eine Beispielrechnung sehen könnte und daran merke, dass die Grunderwerbsteuer oder die Steuer auf den Cashflow falsch gerechnet ist, würde ich es lassen.",
+  "price_too_cheap": 5,
+  "price_cheap": 19,
+  "price_expensive": 59,
+  "price_too_expensive": 120
 }

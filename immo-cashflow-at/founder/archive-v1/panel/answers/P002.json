@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Die Gratis-App lad ich mir sicher runter und spiel ein paar Deals durch, das ist mein Ding. Aber für meine zwei Wohnungen reicht mir mein Excel und Parqet kann Immobilien auch schon halbwegs, und ich kauf gerade nichts Neues, also zahl ich im ersten Monat nichts.",
+  "objection": "Bei 1 bis 3 Objekten ändert sich monatlich kaum was, da fühlt sich ein Abo für Tracking wie Geld für nichts an. Und ich weiß nicht, ob die ausgeblendeten Kennzahlen wirklich was bringen oder nur künstlich weggesperrt sind.",
+  "would_change_my_mind": "Wenn ich konkret eine Vorsorgewohnung kaufen will und die Bank eine saubere Cashflow-Rechnung sehen will, dann würd ich für die Zeit ein Monat Abo nehmen, oder wenn es automatisch Kreditstand und Tilgung von meiner Bank importiert.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 6,
+  "price_too_expensive": 10
+}

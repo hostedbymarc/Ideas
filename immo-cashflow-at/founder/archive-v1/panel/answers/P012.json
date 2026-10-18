@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Die Gratisversion lade ich mir sicher runter und rechne meine zwei Wohnungen durch, aber zahlen tu ich nicht. Mein Portfolio kann ich auch in Excel tracken, und ein weiteres Abo vergesse ich eh nur zu kündigen.",
+  "objection": "Noch ein Abo um 8 Euro im Monat, während mir die variablen Zinsen eh schon das Budget auffressen. Und ich weiß nicht, welche Kennzahlen in der Gratisversion fehlen, vielleicht brauch ich die gar nicht.",
+  "would_change_my_mind": "Wenn die App mir konkret zeigt, was ein Zinsanstieg für meine Rate und meinen Cashflow bedeutet, und das nur im Bezahlteil geht, dann vielleicht, aber eher als Jahresabo mit Rabatt oder einmal kaufen statt monatlich.",
+  "price_too_cheap": 0.99,
+  "price_cheap": 2.99,
+  "price_expensive": 5,
+  "price_too_expensive": 8
+}

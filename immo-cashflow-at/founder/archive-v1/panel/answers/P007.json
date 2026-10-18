@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "Ich will alles an einem Ort, und das ist bei mir Parqet. Noch eine App, in die ich meine Wohnungen und Kredite händisch eintrage, will ich nicht. Die Gratis-Deal-Analyse probiere ich vielleicht aus, aber ein Abo zahle ich nicht.",
+  "objection": "Ich sehe nicht, dass die Zahlen wirklich österreichisch gerechnet sind, also Grunderwerbsteuer, Eintragungsgebühr, Richtwertmiete, AfA und Rücklage. Und es ist ein zweites Tool neben Parqet, statt dass es sich dort einfügt.",
+  "would_change_my_mind": "Wenn es sich mit Parqet synchronisiert, sodass meine Objekte und Kreditstände dort im Gesamtvermögen auftauchen, und die österreichischen Regeln nachvollziehbar und vom Steuerberater geprüft drin sind.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 6,
+  "price_too_expensive": 10
+}

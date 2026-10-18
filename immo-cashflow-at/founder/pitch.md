@@ -1,6 +1,5 @@
-Eine neue Plattform (App und Web) für private Immobilieninvestoren in Österreich.
-Deal-Analyse: Kaufpreis, Nebenkosten, Miete und Kredit eingeben, und du siehst, ob das Objekt sich rentiert und ob dein monatlicher Cashflow nach der Kreditrate positiv oder negativ ist.
-Portfolio-Tracking (ähnlich wie Parqet oder Finanzfluss, aber für Immobilien): was deine Objekte wert sind, wie viel schon getilgt ist und wie viel Kredit noch offen ist.
-Gratis zum Download, unbegrenzt viele Deal-Analysen. In der Gratisversion werden nicht alle Kennzahlen angezeigt.
-Vollständiger PDF-Export einer Analyse: 29 € einmalig. Oder alle Funktionen inklusive Portfolio-Tracking: 7,99 € pro Monat.
-(Die Preisfragen unten beziehen sich auf das Monatsabo.)
+Marille, eine Web-App für Erstinvestoren in Österreich.
+Deal-Analyse vor dem Kauf: Kaufpreis, Miete und Kredit eingeben. Du siehst österreichische Kaufnebenkosten einzeln (Grunderwerbsteuer, Grundbuch, Pfandrecht, Makler, Vertrag), deinen monatlichen Cashflow nach Kreditrate und Steuer, wie viel die Tilgung an Vermögen aufbaut, Bank-Kennzahlen wie Beleihungsauslauf und einen Investment-Score von 0 bis 100. Dazu ein PDF-Report für das Bankgespräch.
+Nach dem Kauf: Mit einem Klick ins Portfolio übernehmen und sehen, was deine Wohnung wert ist, wie viel getilgt ist, wie viel Kredit offen ist und was sie jeden Monat bringt.
+Preis: 19 € pro Jahr für alles. Es gibt keine Gratisversion.
+(Die Preisfragen unten beziehen sich auf den Jahrespreis.)

@@ -1,13 +1,13 @@
 {
   "id": "P013",
-  "buys": false,
-  "purchases_first_month": 0,
-  "reason_code": "habit",
-  "reason": "Für die Besichtigung nächste Woche rechne ich das in meiner eigenen Excel durch, die kann das schon, und die kenn ich in- und auswendig. Die Gratisversion schau ich mir vielleicht zum Gegenchecken an, aber zahlen tu ich dafür nicht.",
-  "objection": "Noch ein Abo, das ich vergesse zu kündigen, für etwas, das meine Tabelle eh schon kann. Und ich weiß nicht, ob die Formeln für Österreich wirklich stimmen.",
-  "would_change_my_mind": "Wenn das Portfolio-Tracking meine Kredite automatisch mit Tilgungsplan und Restschuld sauber abbildet und ich meine Excel-Daten einfach importieren kann, eventuell als Jahreslizenz statt Monatsabo.",
-  "price_too_cheap": 1,
-  "price_cheap": 3,
-  "price_expensive": 6,
-  "price_too_expensive": 10
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "timing",
+  "reason": "Ich hab nächste Woche eine Besichtigung und will vorher selbst wissen, ob sich die Wohnung nach Steuer und Kreditrate überhaupt rechnet, statt mich nur auf die Bank zu verlassen. 19 Euro im Jahr ist weniger als ein Abendessen, das probier ich einfach aus.",
+  "objection": "Die Bank und der Kreditvermittler rechnen mir das eh vor, und ein paar gratis Rechner und Excel-Vorlagen gibt es auch. Ohne Gratisversion weiß ich nicht, ob die Zahlen wirklich stimmen, vor allem bei der Steuer.",
+  "would_change_my_mind": "Wenn ich merke, dass die Steuer- und Nebenkostenberechnung nicht zu dem passt, was mir Bank oder Steuerberater sagen, kündige ich sofort und empfehle es nicht weiter.",
+  "price_too_cheap": 3,
+  "price_cheap": 10,
+  "price_expensive": 39,
+  "price_too_expensive": 79
 }

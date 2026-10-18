@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Ich habe noch gar keine Wohnung, also brauche ich kein Portfolio-Tracking. Für die Besichtigung nächste Woche probiere ich höchstens die Gratisversion aus und rechne zur Sicherheit noch einmal mit meiner Bank nach.",
+  "objection": "Ich weiß nicht, wer hinter der App steht und was mit meinen Kredit- und Finanzdaten passiert. Und ein Abo für etwas, das ich vielleicht zweimal im Jahr brauche, vergesse ich dann zu kündigen.",
+  "would_change_my_mind": "Ein bekannter österreichischer Absender oder unabhängige Bewertungen, plus ein monatlich kündbares Abo ohne Bindung, das ich nur in den Wochen abschließe, in denen ich wirklich Objekte vergleiche.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 6,
+  "price_too_expensive": 10
+}

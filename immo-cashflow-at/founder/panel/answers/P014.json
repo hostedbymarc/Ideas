@@ -2,12 +2,12 @@
   "id": "P014",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "habit",
-  "reason": "Ich hab mir meine eigene Excel-Tabelle gebaut, die rechnet mir Cashflow nach Kreditrate genauso aus. Für die Besichtigung nächste Woche lad ich mir vielleicht die Gratisversion runter und vergleich die Zahlen mit meiner Tabelle, aber zahlen tu ich dafür nicht, ich hab ja erst null Wohnungen zum Tracken.",
-  "objection": "Wer steht dahinter? Eine neue App, von der ich nichts weiß, und ich soll da meine Kreditdaten eingeben. Und wenn die wichtigen Kennzahlen hinter der Bezahlschranke sind, weiß ich nicht, ob die überhaupt richtig rechnen, etwa mit österreichischen Nebenkosten und Steuern.",
-  "would_change_my_mind": "Wenn ich nachvollziehen kann, wie gerechnet wird, und es von einer seriösen, bekannten Stelle in Österreich kommt, und ich dann wirklich die Wohnung kaufe und was zu tracken hab.",
-  "price_too_cheap": 1,
-  "price_cheap": 2.99,
-  "price_expensive": 5,
-  "price_too_expensive": 8
+  "reason_code": "trust",
+  "reason": "Ich lass das sowieso meinen Bankberater und den Kreditvermittler durchrechnen, die machen das beruflich. 19 Euro sind nicht viel, aber ohne es vorher testen zu können zahl ich nicht für eine App, von der ich nicht weiß, ob ihre Zahlen stimmen.",
+  "objection": "Keine Gratisversion. Ich kann nicht sehen, ob die Rechnung mit meinen Inseraten auf willhaben überhaupt sinnvoll rauskommt, bevor ich zahle, und ob die Bank so einen PDF-Report ernst nimmt.",
+  "would_change_my_mind": "Wenn ich eine Wohnung gratis durchrechnen könnte und das Ergebnis mit dem übereinstimmt, was mir mein Bankberater sagt.",
+  "price_too_cheap": 3,
+  "price_cheap": 10,
+  "price_expensive": 29,
+  "price_too_expensive": 49
 }

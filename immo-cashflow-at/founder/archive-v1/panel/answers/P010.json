@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich hab meine eigene Excel-Tabelle, da sehe ich jede Formel und weiß, was drinsteckt. Die Gratisversion lade ich mir vielleicht runter, um meine Zahlen gegenzuchecken, aber ein Abo für Portfolio-Tracking brauche ich nicht, ich besitze ja noch gar keine Wohnung.",
+  "objection": "Ich weiß nicht, wie die rechnen, und genau die Kennzahlen, die mich interessieren würden, sind hinter der Bezahlschranke. Meine Excel kann das auch, und die kostet mich nichts im Monat.",
+  "would_change_my_mind": "Wenn ich wirklich eine Wohnung kaufe und die App Dinge kann, die meine Tabelle nicht kann, etwa österreichische Nebenkosten, Steuer und Tilgung automatisch richtig rechnet und den Kredit laufend mitführt, dann würde ich über das Abo nachdenken.",
+  "price_too_cheap": 1,
+  "price_cheap": 2.99,
+  "price_expensive": 5,
+  "price_too_expensive": 9
+}

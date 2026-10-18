@@ -2,12 +2,12 @@
   "id": "P008",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "Für die Besichtigung nächste Woche würde ich vielleicht die Gratisversion probieren, aber ein Abo schließe ich bei einer neuen Plattform nicht ab, solange ich nicht weiß, wer dahintersteht und was mit meinen Kreditdaten passiert. Portfolio-Tracking brauche ich ohne eigene Wohnung sowieso noch nicht.",
-  "objection": "Wer steht dahinter, rechnet das Tool österreichische Nebenkosten und Steuern wirklich richtig, und warum versteckt die Gratisversion genau die Kennzahlen, die ich für die Entscheidung brauche?",
-  "would_change_my_mind": "Ein klares Impressum mit nachvollziehbarem Team, gute unabhängige Bewertungen und eine Empfehlung von einem Steuerberater oder Kreditvermittler, dem ich vertraue.",
-  "price_too_cheap": 1.5,
-  "price_cheap": 3.99,
-  "price_expensive": 7.99,
-  "price_too_expensive": 12
+  "reason_code": "habit",
+  "reason": "Ich hab meine Wohnung mit den gratis Rechnern durchgerechnet und für das Bankgespräch rechnet mir die Bank bzw. der Kreditvermittler eh alles vor. Für Software zahl ich praktisch nie, und ohne Gratisversion probier ich es nicht einmal aus.",
+  "objection": "Ich kann nicht testen, ob die Zahlen stimmen, bevor ich zahle, und die Bank glaubt am Ende sowieso nur ihrer eigenen Rechnung, nicht einem PDF von einer App, die ich nicht kenne.",
+  "would_change_my_mind": "Eine Gratisversion, mit der ich meine eigene Wohnung einmal durchrechnen kann und sehe, dass die Kaufnebenkosten und der Cashflow mit meinem Kaufvertrag zusammenpassen.",
+  "price_too_cheap": 3,
+  "price_cheap": 9,
+  "price_expensive": 19,
+  "price_too_expensive": 35
 }

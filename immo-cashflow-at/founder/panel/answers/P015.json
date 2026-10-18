@@ -1,13 +1,13 @@
 {
   "id": "P015",
-  "buys": false,
-  "purchases_first_month": 0,
-  "reason_code": "habit",
-  "reason": "Die Gratisversion lade ich mir vielleicht runter und rechne mal eine Wohnung durch, aber zahlen tu ich dafür nicht. Meine Wohnungen hab ich schon, den Kreditstand seh ich im Online-Banking und den Rest macht einmal im Jahr der Steuerberater.",
-  "objection": "Noch ein Abo um 7,99 im Monat, das ich nach drei Monaten vergesse zu kündigen, für Zahlen, die ich mir mit der Bank-App und einer Excel-Tabelle auch selber zusammensuchen kann.",
-  "would_change_my_mind": "Wenn das Portfolio-Tracking gratis wäre oder es eine Einmalzahlung fürs ganze Jahr gäbe, die mir der Steuerberater als Werbungskosten absetzt und die mir bei der jährlichen Abrechnung wirklich Arbeit spart.",
-  "price_too_cheap": 1,
-  "price_cheap": 2,
-  "price_expensive": 4,
-  "price_too_expensive": 6
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "timing",
+  "reason": "Ich hab nächsten Monat das Bankgespräch und bin mitten in den Besichtigungen. 19 € sind weniger als ein Abend, den ich sonst in meine Tabelle stecke, und ich würd's vor allem nutzen, um meine eigene Excel gegenzuchecken und einen sauberen PDF-Report mitzunehmen.",
+  "objection": "Ich weiß nicht, ob die Zahlen wirklich österreichisch korrekt sind: 3,5 % Grunderwerbsteuer, 1,1 % Eintragung, 1,2 % Pfandrecht, AfA, Mietpreisdeckel bei Altbau. Ohne Gratisversion kann ich das nicht vorher prüfen, und wenn's falsch rechnet, bleib ich bei meiner Tabelle.",
+  "would_change_my_mind": "Wenn ich nach dem Kauf merke, dass die Rechnung bei Nebenkosten oder Steuer von meiner Excel abweicht und nicht erklärt, warum, kündige ich und nutze es nicht weiter.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 39,
+  "price_too_expensive": 69
 }

@@ -1,13 +1,13 @@
 {
   "id": "P004",
-  "buys": false,
-  "purchases_first_month": 0,
-  "reason_code": "habit",
-  "reason": "Meine Excel-Tabelle rechnet Cashflow, Tilgung und Restschuld für alle meine Wohnungen seit Jahren, und ich weiß genau, was drin steckt. Für die Besichtigung nächste Woche probier ich die Gratisversion vielleicht aus, um meine Zahlen gegenzuchecken, aber zahlen werde ich dafür nicht.",
-  "objection": "Ich weiß nicht, wie die rechnen: AfA, Instandhaltungsrücklage, Leerstand, Zinsanpassung bei variablem Kredit, österreichische Nebenkosten wie Grunderwerbsteuer und Eintragungsgebühr. Wenn ich das nicht nachvollziehen kann, vertrau ich den Zahlen weniger als meinem eigenen Sheet, und meine Objektdaten will ich auch nicht irgendeinem neuen Start-up geben.",
-  "would_change_my_mind": "Wenn ich meine bestehende Excel-Tabelle importieren könnte und das Portfolio-Tracking mir echte Arbeit abnimmt, etwa automatische Marktwert-Schätzungen und Kreditstände direkt von der Bank, statt dass ich wieder alles händisch eintippe.",
-  "price_too_cheap": 2,
-  "price_cheap": 4,
-  "price_expensive": 9,
-  "price_too_expensive": 15
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "timing",
+  "reason": "Ich besichtige gerade Wohnungen und meine Excel-Tabelle hat die österreichischen Nebenkosten und die Steuer nur grob drin. 19 € ist weniger als ein Abendessen, und wenn mir der PDF-Report beim Bankgespräch hilft oder mich vor einem schlechten Deal bewahrt, hat es sich schon gelohnt.",
+  "objection": "Ich tracke alles in Parqet und will nicht noch eine App für das Portfolio. Den Portfolio-Teil brauche ich eigentlich nicht, wenn das nicht mit Parqet verbunden ist, und ohne Gratisversion weiß ich nicht, ob die Rechnung besser ist als mein Excel.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 49,
+  "price_too_expensive": 89
 }

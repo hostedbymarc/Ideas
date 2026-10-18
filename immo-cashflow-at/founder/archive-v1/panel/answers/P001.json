@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Ich lade mir die Gratis-App sicher runter und rechne meine Wunschwohnungen durch, aber ich habe noch kein einziges Objekt, also bringt mir das Portfolio-Tracking nichts. Fürs Abo zahle ich erst, wenn ich wirklich kurz vor dem Kauf stehe.",
+  "objection": "Ich weiß nicht, ob die Rechnung wirklich österreichisch ist: Grunderwerbsteuer 3,5 %, Eintragungsgebühr, Maklerprovision, Richtwertmiete bei Altbau, 1,5 % AfA, Rücklage. Wenn das nur ein umgelabelter deutscher Rechner ist, zahle ich dafür nichts.",
+  "would_change_my_mind": "Wenn ich in der Gratisversion sehe, dass die österreichischen Nebenkosten und Steuern korrekt drin sind, und eine konkrete Wohnung ernsthaft prüfe, würde ich ein Monat Abo oder den PDF-Export für das Bankgespräch kaufen.",
+  "price_too_cheap": 1.5,
+  "price_cheap": 3.99,
+  "price_expensive": 8.99,
+  "price_too_expensive": 14
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Für die Besichtigung nächste Woche lade ich mir die Gratisversion herunter und rechne die Wohnung durch, das reicht mir. Ich habe noch kein einziges Objekt, also brauche ich kein Portfolio-Tracking, und noch ein Monatsabo schließe ich sicher nicht ab.",
+  "objection": "Ich kündige gerade alle Abos, und 7,99 im Monat für eine Wohnung, die ich noch gar nicht habe, ist rausgeschmissenes Geld. 29 Euro für ein PDF ist auch viel, wenn ich die Zahlen eh am Bildschirm sehe.",
+  "would_change_my_mind": "Wenn die Gratisversion gerade die Kennzahl versteckt, die ich für die Kaufentscheidung brauche, und ich alles einmalig um 10 bis 15 Euro freischalten könnte, ohne Abo.",
+  "price_too_cheap": 1,
+  "price_cheap": 2.5,
+  "price_expensive": 4.5,
+  "price_too_expensive": 7
+}

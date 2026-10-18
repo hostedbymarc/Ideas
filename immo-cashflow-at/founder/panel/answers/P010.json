@@ -1,13 +1,13 @@
 {
   "id": "P010",
-  "buys": false,
-  "purchases_first_month": 0,
-  "reason_code": "habit",
-  "reason": "Ich hab meine eigene Excel-Tabelle, da sehe ich jede Formel und weiß, was drinsteckt. Die Gratisversion lade ich mir vielleicht runter, um meine Zahlen gegenzuchecken, aber ein Abo für Portfolio-Tracking brauche ich nicht, ich besitze ja noch gar keine Wohnung.",
-  "objection": "Ich weiß nicht, wie die rechnen, und genau die Kennzahlen, die mich interessieren würden, sind hinter der Bezahlschranke. Meine Excel kann das auch, und die kostet mich nichts im Monat.",
-  "would_change_my_mind": "Wenn ich wirklich eine Wohnung kaufe und die App Dinge kann, die meine Tabelle nicht kann, etwa österreichische Nebenkosten, Steuer und Tilgung automatisch richtig rechnet und den Kredit laufend mitführt, dann würde ich über das Abo nachdenken.",
-  "price_too_cheap": 1,
-  "price_cheap": 2.99,
-  "price_expensive": 5,
-  "price_too_expensive": 9
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Ehrlich gesagt reicht meine Excel-Tabelle für die eine Wohnung, aber ich scroll abends eh durch willhaben nach der nächsten, und für 19 € im Jahr probier ich so eine App einfach aus, wenn mir die Nebenkosten und der Cashflow nach Steuer schneller durchgerechnet werden als in meinem Sheet.",
+  "objection": "Keine Gratisversion, also zahle ich, bevor ich weiß, ob die Steuer- und Cashflow-Rechnung wirklich stimmt und besser ist als mein eigenes Excel, und ob ich nach zwei Wochen nicht eh wieder in die Tabelle zurückgehe.",
+  "would_change_my_mind": "Wenn ich vor dem Zahlen sehe, dass die Zahlen falsch oder zu grob sind, zum Beispiel bei einem Testdeal, den ich selbst schon durchgerechnet habe, dann bleibe ich beim Excel.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 49,
+  "price_too_expensive": 89
 }
