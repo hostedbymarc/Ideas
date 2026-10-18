@@ -13,3 +13,4 @@
 | Verteilung über die Monate (2,3,3,4,4,4,5,5,5,5,5,5) | Summe 50 | **Schätzung**: langsamer Start, dann ca. 5 pro Monat. Das Panel kann das nicht prüfen (es misst Kaufbereitschaft, nicht Reichweite). |
 | Deine Zeit | 0 € (5 h/Woche) | Gründer |
 | Bisherige Ausgaben | ca. 300 € | Gründer; nicht im Modell (bereits ausgegeben) |
+| Domain .at | 13,48 €/Jahr (1,12 €/Monat), Starter-E-Mail inkl. | öffentlich, [OVHcloud](https://www.ovhcloud.com/de/domains/tld/at/) |
