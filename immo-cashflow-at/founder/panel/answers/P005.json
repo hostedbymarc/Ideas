@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich nehm die Gratisversion für die Deal-Analysen mit, aber meine sechs Objekte hab ich längst in meinem eigenen Excel, und für ein weiteres Abo zahl ich nicht. Wenn mir mal eine Kennzahl fehlt, rechne ich sie selbst nach.",
+  "objection": "Noch ein Abo, das ich vergesse zu kündigen, und am Ende tippe ich trotzdem alle Kredite händisch ein. Was mir wirklich Sorgen macht, ist mein variabler Zinssatz, und davon steht im Angebot nichts.",
+  "would_change_my_mind": "Wenn das Portfolio-Tracking mir für jedes Objekt zeigt, was ein Zinsanstieg mit meinem Cashflow macht, und das als Jahreslizenz ohne automatische Verlängerung zu haben ist.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 6,
+  "price_too_expensive": 10
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Für die Besichtigung nächste Woche würde ich vielleicht die Gratisversion runterladen und schauen, was rauskommt, aber rechnen lasse ich das sowieso von meinem Bankberater und dem Makler. Ich hab noch gar kein Objekt, also brauch ich kein Portfolio-Tracking und zahle sicher kein Monatsabo dafür.",
+  "objection": "Ich weiß nicht, ob die App wirklich mit österreichischen Zahlen rechnet, also Grunderwerbsteuer, Eintragungsgebühr, Richtwertmiete, AfA und Rücklage. Wenn das Ergebnis vom Bankberater abweicht, glaube ich eher dem Profi als einer neuen App.",
+  "would_change_my_mind": "Wenn mein Steuerberater oder Bankberater sagt, dass die Rechnung stimmt und er sie selbst so verwendet, oder wenn ich dort ein Beispiel sehe, das genau mit seiner Rechnung übereinstimmt.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 6,
+  "price_too_expensive": 10
+}

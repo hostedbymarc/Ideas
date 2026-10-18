@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Meine Excel-Tabelle rechnet Cashflow, Tilgung und Restschuld für alle meine Wohnungen seit Jahren, und ich weiß genau, was drin steckt. Für die Besichtigung nächste Woche probier ich die Gratisversion vielleicht aus, um meine Zahlen gegenzuchecken, aber zahlen werde ich dafür nicht.",
+  "objection": "Ich weiß nicht, wie die rechnen: AfA, Instandhaltungsrücklage, Leerstand, Zinsanpassung bei variablem Kredit, österreichische Nebenkosten wie Grunderwerbsteuer und Eintragungsgebühr. Wenn ich das nicht nachvollziehen kann, vertrau ich den Zahlen weniger als meinem eigenen Sheet, und meine Objektdaten will ich auch nicht irgendeinem neuen Start-up geben.",
+  "would_change_my_mind": "Wenn ich meine bestehende Excel-Tabelle importieren könnte und das Portfolio-Tracking mir echte Arbeit abnimmt, etwa automatische Marktwert-Schätzungen und Kreditstände direkt von der Bank, statt dass ich wieder alles händisch eintippe.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 9,
+  "price_too_expensive": 15
+}

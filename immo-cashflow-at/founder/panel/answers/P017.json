@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "Ich will alles an einem Ort, und das ist Parqet. Meine zwei Wohnungen trage ich dort als Immobilie ein, den Kredit hab ich im Excel vom Steuerberater, und für eine zweite App mit eigenem Abo zahle ich keine 7,99 im Monat.",
+  "objection": "Das ist eine weitere Insel neben Parqet. Ich müsste Werte und Kreditstände doppelt pflegen, und ob die Plattform in drei Jahren noch existiert, weiß ich auch nicht. Neue Deals rechnet mir ohnehin die Bank durch.",
+  "would_change_my_mind": "Eine direkte Synchronisation mit Parqet, also Objektwert, Tilgung und Restschuld landen automatisch in meinem Parqet-Depot, plus ein Export, den mein Steuerberater für die Vermietungseinkünfte direkt verwenden kann.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 6,
+  "price_too_expensive": 10
+}

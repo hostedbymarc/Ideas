@@ -1,0 +1,176 @@
+{
+ "business": "Immo-Cashflow-Plattform für private Immobilieninvestoren in Österreich (Deal-Analyse + Portfolio-Tracking, Freemium)",
+ "seed": 646855,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 1,
+ "passes": 19,
+ "buy_rate": 0.05,
+ "by_segment": [
+  [
+   "Kleinvermieter mit 1 bis 3 Wohnungen und laufenden Krediten",
+   7,
+   0.14285714285714285
+  ],
+  [
+   "Einsteiger vor dem ersten Kauf (sucht gerade die erste Vorsorgewohnung)",
+   9,
+   0.0
+  ],
+  [
+   "Fortgeschrittener Investor mit 4 bis 10 Objekten",
+   4,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Finanz-Content-Konsument",
+   4,
+   0.25
+  ],
+  [
+   "Verlässt sich auf Profis",
+   3,
+   0.0
+  ],
+  [
+   "Excel-Bastler",
+   4,
+   0.0
+  ],
+  [
+   "Gratis-Nutzer",
+   3,
+   0.0
+  ],
+  [
+   "Bereits Parqet-Nutzer",
+   2,
+   0.0
+  ],
+  [
+   "Vorsichtiger Prüfer",
+   2,
+   0.0
+  ],
+  [
+   "Abo-Müde",
+   2,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$61,000 to $103,000",
+   7,
+   0.14285714285714285
+  ],
+  [
+   "under $61,000",
+   6,
+   0.0
+  ],
+  [
+   "$103,000 and up",
+   7,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "habit",
+   8,
+   [
+    "Meine Excel-Tabelle rechnet Cashflow, Tilgung und Restschuld für alle meine Wohnungen seit Jahren, und ich weiß genau, was drin steckt. Für die Besichtigung nächste Woche probier ich die Gratisversion vielleicht aus, um meine Zahlen gegenzuchecken, aber zahlen werde ich dafür nicht.",
+    "Ich nehm die Gratisversion für die Deal-Analysen mit, aber meine sechs Objekte hab ich längst in meinem eigenen Excel, und für ein weiteres Abo zahl ich nicht. Wenn mir mal eine Kennzahl fehlt, rechne ich sie selbst nach."
+   ],
+   [
+    "P004",
+    "P005"
+   ]
+  ],
+  [
+   "need",
+   5,
+   [
+    "Ich lade mir die Gratis-App sicher runter und rechne meine Wunschwohnungen durch, aber ich habe noch kein einziges Objekt, also bringt mir das Portfolio-Tracking nichts. Fürs Abo zahle ich erst, wenn ich wirklich kurz vor dem Kauf stehe.",
+    "Die Gratis-App lad ich mir sicher runter und spiel ein paar Deals durch, das ist mein Ding. Aber für meine zwei Wohnungen reicht mir mein Excel und Parqet kann Immobilien auch schon halbwegs, und ich kauf gerade nichts Neues, also zahl ich im ersten Monat nichts."
+   ],
+   [
+    "P001",
+    "P002"
+   ]
+  ],
+  [
+   "trust",
+   3,
+   [
+    "Für die Besichtigung nächste Woche würde ich vielleicht die Gratisversion runterladen und schauen, was rauskommt, aber rechnen lasse ich das sowieso von meinem Bankberater und dem Makler. Ich hab noch gar kein Objekt, also brauch ich kein Portfolio-Tracking und zahle sicher kein Monatsabo dafür.",
+    "Die Gratisversion lad ich mir sicher runter und rechne ein paar willhaben-Inserate durch, aber ich tippe nicht meine sechs Kredite mit Restschuld und Zinssätzen in eine App, von der ich nicht weiß, wer dahintersteht. Die 7,99 € sind nicht das Problem, mein Excel funktioniert halt auch."
+   ],
+   [
+    "P003",
+    "P006"
+   ]
+  ],
+  [
+   "convenience",
+   2,
+   [
+    "Ich will alles an einem Ort, und das ist bei mir Parqet. Noch eine App, in die ich meine Wohnungen und Kredite händisch eintrage, will ich nicht. Die Gratis-Deal-Analyse probiere ich vielleicht aus, aber ein Abo zahle ich nicht.",
+    "Ich will alles an einem Ort, und das ist Parqet. Meine zwei Wohnungen trage ich dort als Immobilie ein, den Kredit hab ich im Excel vom Steuerberater, und für eine zweite App mit eigenem Abo zahle ich keine 7,99 im Monat."
+   ],
+   [
+    "P007",
+    "P017"
+   ]
+  ],
+  [
+   "price",
+   1,
+   [
+    "Für die Besichtigung nächste Woche lade ich mir die Gratisversion herunter und rechne die Wohnung durch, das reicht mir. Ich habe noch kein einziges Objekt, also brauche ich kein Portfolio-Tracking, und noch ein Monatsabo schließe ich sicher nicht ab."
+   ],
+   [
+    "P018"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "need",
+   1,
+   [
+    "Ich hab nächste Woche die Besichtigung und will vorher sauber wissen, ob der Cashflow nach der Rate passt. Die 29 Euro fürs PDF zahl ich sicher nicht, aber 7,99 für einen Monat mit allen Kennzahlen probier ich aus, so wie ich jede neue Finanz-App teste, und kündige, wenn's nichts kann, was mein Excel nicht auch kann."
+   ],
+   [
+    "P009"
+   ]
+  ]
+ ],
+ "flip": [
+  "Wenn ich in der Gratisversion sehe, dass die österreichischen Nebenkosten und Steuern korrekt drin sind, und eine konkrete Wohnung ernsthaft prüfe, würde ich ein Monat Abo oder den PDF-Export für das Bankgespräch kaufen.",
+  "Wenn ich konkret eine Vorsorgewohnung kaufen will und die Bank eine saubere Cashflow-Rechnung sehen will, dann würd ich für die Zeit ein Monat Abo nehmen, oder wenn es automatisch Kreditstand und Tilgung von meiner Bank importiert.",
+  "Wenn mein Steuerberater oder Bankberater sagt, dass die Rechnung stimmt und er sie selbst so verwendet, oder wenn ich dort ein Beispiel sehe, das genau mit seiner Rechnung übereinstimmt.",
+  "Wenn ich meine bestehende Excel-Tabelle importieren könnte und das Portfolio-Tracking mir echte Arbeit abnimmt, etwa automatische Marktwert-Schätzungen und Kreditstände direkt von der Bank, statt dass ich wieder alles händisch eintippe.",
+  "Wenn das Portfolio-Tracking mir für jedes Objekt zeigt, was ein Zinsanstieg mit meinem Cashflow macht, und das als Jahreslizenz ohne automatische Verlängerung zu haben ist.",
+  "Ein sichtbares Team mit Namen und Impressum in Österreich, Datenhaltung in der EU, und eine Empfehlung von einem Immo-Podcast oder Finanz-YouTuber, dem ich vertraue, plus Bank-Anbindung oder Import, damit ich nicht alles händisch eintippen muss.",
+  "Wenn es sich mit Parqet synchronisiert, sodass meine Objekte und Kreditstände dort im Gesamtvermögen auftauchen, und die österreichischen Regeln nachvollziehbar und vom Steuerberater geprüft drin sind.",
+  "Ein klares Impressum mit nachvollziehbarem Team, gute unabhängige Bewertungen und eine Empfehlung von einem Steuerberater oder Kreditvermittler, dem ich vertraue.",
+  "Wenn ich wirklich eine Wohnung kaufe und die App Dinge kann, die meine Tabelle nicht kann, etwa österreichische Nebenkosten, Steuer und Tilgung automatisch richtig rechnet und den Kredit laufend mitführt, dann würde ich über das Abo nachdenken.",
+  "Wenn mein Steuerberater oder meine Bank damit arbeitet bzw. die Kreditdaten automatisch importiert werden, sodass ich nichts selbst pflegen muss.",
+  "Wenn die App mir konkret zeigt, was ein Zinsanstieg für meine Rate und meinen Cashflow bedeutet, und das nur im Bezahlteil geht, dann vielleicht, aber eher als Jahresabo mit Rabatt oder einmal kaufen statt monatlich.",
+  "Wenn das Portfolio-Tracking meine Kredite automatisch mit Tilgungsplan und Restschuld sauber abbildet und ich meine Excel-Daten einfach importieren kann, eventuell als Jahreslizenz statt Monatsabo.",
+  "Wenn ich nachvollziehen kann, wie gerechnet wird, und es von einer seriösen, bekannten Stelle in Österreich kommt, und ich dann wirklich die Wohnung kaufe und was zu tracken hab.",
+  "Wenn das Portfolio-Tracking gratis wäre oder es eine Einmalzahlung fürs ganze Jahr gäbe, die mir der Steuerberater als Werbungskosten absetzt und die mir bei der jährlichen Abrechnung wirklich Arbeit spart.",
+  "Ein bekannter österreichischer Absender oder unabhängige Bewertungen, plus ein monatlich kündbares Abo ohne Bindung, das ich nur in den Wochen abschließe, in denen ich wirklich Objekte vergleiche.",
+  "Eine direkte Synchronisation mit Parqet, also Objektwert, Tilgung und Restschuld landen automatisch in meinem Parqet-Depot, plus ein Export, den mein Steuerberater für die Vermietungseinkünfte direkt verwenden kann.",
+  "Wenn die Gratisversion gerade die Kennzahl versteckt, die ich für die Kaufentscheidung brauche, und ich alles einmalig um 10 bis 15 Euro freischalten könnte, ohne Abo.",
+  "Wenn mein Steuerberater oder ein Bekannter, der schon vermietet, sagt, dass die Zahlen stimmen und sie damit selbst arbeiten, und ich damit dem Makler gegenueber kritische Fragen stellen kann, bevor ich unterschreibe.",
+  "Wenn ich tatsächlich eine konkrete Wohnung kaufe und die Analyse nachweislich von einem österreichischen Steuerberater oder Fachmann geprüft ist, würde ich vielleicht einmal die 29 € für den PDF-Export zahlen, aber kein Abo."
+ ],
+ "purchases_first_month_per_buyer": 1.0,
+ "price_answers": 20
+}

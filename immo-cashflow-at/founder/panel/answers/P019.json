@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Ich hab noch gar keine Wohnung, also brauch ich kein Portfolio-Tracking um 7,99 im Monat. Die Gratis-Analyse lad ich mir vielleicht runter, um mal eine Zahl zu sehen, aber durchrechnen lass ich es eh von der Bank und meinem Steuerberater.",
+  "objection": "Ich trau mir nicht zu, die richtigen Werte einzugeben, und wenn die App was anderes sagt als der Bankberater, glaub ich am Ende sowieso dem Profi. Wozu zahlen, wenn die mir das gratis vorrechnen?",
+  "would_change_my_mind": "Wenn mein Steuerberater oder ein Bekannter, der schon vermietet, sagt, dass die Zahlen stimmen und sie damit selbst arbeiten, und ich damit dem Makler gegenueber kritische Fragen stellen kann, bevor ich unterschreibe.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 6,
+  "price_too_expensive": 10
+}
