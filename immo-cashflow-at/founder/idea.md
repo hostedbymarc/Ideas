@@ -2,9 +2,9 @@
 
 - What it is: Eine fertig gebaute Web-App (marille.netlify.app), mit der private Immobilieninvestoren in Österreich prüfen, ob sich eine Wohnung rentiert und ob ihr monatlicher Cashflow nach der Kreditrate positiv oder negativ ist (Deal-Analyse), und ihr Immobilienportfolio tracken (Wert, Eigentumsanteil, Tilgung, Restschuld, Cashflow pro Monat).
 - Who it is for: Erstinvestoren in Österreich, die gerade ihre erste Vorsorge- bzw. Anlagewohnung suchen oder gekauft haben.
-- What it sells, at what price: Zugang zur Plattform für 19 € pro Jahr (Deal-Analyse + Portfolio-Tracking). Ob es daneben eine Gratisversion gibt, ist noch offen.
-- Where and how: Online (Web-App), ganz Österreich. Vertrieb und Kanäle noch offen.
-- Budget and constraints: Gründer arbeitet seit Anfang 2026 allein daran und hat die App selbst mit Claude Code gebaut. Bisher rund 300 € für Abos ausgegeben (Claude, Supabase, Netlify). Weiteres Budget und Stunden pro Woche noch offen.
+- What it sells, at what price: „Marille Kauf-Check“: Zugang für 19 € pro Jahr (Test gegen 29 €), Deal-Analyse + Portfolio-Tracking. Keine Gratisversion; öffentlicher Beispiel-Report und 30 Tage Geld zurück.
+- Where and how: Online (Web-App), ganz Österreich. Kanäle: Reddit, Instagram mit Grafiken, Beispiel-Report als Landingpage, kleiner Google-Ads-Test; Zahlung über Stripe. Launch 11. Jänner 2027, Vorverkauf ab 16. November 2026.
+- Budget and constraints: Gründer arbeitet seit Anfang 2026 allein daran und hat die App selbst mit Claude Code gebaut. Bisher rund 300 € für Abos ausgegeben (Claude, Supabase, Netlify). 5 Stunden pro Woche (Zeit mit 0 € gerechnet); Werbebudget 500-1.000 €; Ziel Jahr 1: 50 zahlende Kunden.
 
 ## Was die App heute kann (aus Screenshots und zwei Deal-Reports vom 18.10.2026)
 - Deal-Analyse mit Tabs Überblick, Bank, Cashflow, Details.
