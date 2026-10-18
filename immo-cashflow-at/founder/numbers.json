@@ -1,0 +1,20 @@
+{
+  "business": "Marille (Kauf-Check + Portfolio, 19 € pro Jahr)",
+  "unit": "Jahresabo (neuer zahlender Kunde)",
+  "price": 19.00,
+  "variable": [
+    {"label": "Stripe Kartengebühr (1,5 % + 0,25 €)", "cost": 0.54},
+    {"label": "Stripe Billing für Abos (ca. 0,7 %, Schätzung)", "cost": 0.13}
+  ],
+  "fixed_monthly": [
+    {"label": "Claude-Abo", "cost": 22},
+    {"label": "Netlify", "cost": 8},
+    {"label": "Supabase (Gratis-Tarif)", "cost": 0}
+  ],
+  "startup": [
+    {"label": "Launch-Werbung (unteres Ende des Budgets)", "cost": 500}
+  ],
+  "days_per_month": 1,
+  "plan_per_day": 5,
+  "ramp_per_day": [2, 3, 3, 4, 4, 4, 5, 5, 5, 5, 5, 5]
+}
