@@ -60,7 +60,7 @@ C. Für Leute, die gerade auf willhaben Anlagewohnungen scrollen, ist Marille de
 ## 4. Zehn Hooks (jeder beantwortet einen Panel-Einwand)
 
 1. „Diese Wohnung kostet 142.000 €. Die Rechnung kostet dich 158.130 €. Hier ist jede Position.“ → Kaufnebenkosten, Blackbox
-2. „Dein Excel sagt +50 €. Österreich sagt -60 €. Wo der Unterschied steckt.“ → „Mein Excel reicht“
+2. „Dein Excel sagt plus? Leg es neben diesen Report und schau, Zeile für Zeile, wo es abweicht.“ → „Mein Excel reicht“
 3. „Cashflow -60 € im Monat und trotzdem +137 € Vermögen. So geht das.“ → Verständnis
 4. „Altbau in Wien? Dann bestimmt der Mietpreisdeckel deine Rendite, nicht der Makler.“ → AT-Genauigkeit
 5. „Beleihungsauslauf 126 %: was die Bank damit meint, bevor du hingehst.“ → „Bank rechnet eh“
