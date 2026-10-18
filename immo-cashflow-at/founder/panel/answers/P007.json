@@ -2,12 +2,12 @@
   "id": "P007",
   "buys": true,
   "purchases_first_month": 1,
-  "reason_code": "timing",
-  "reason": "Ich bin gerade mitten in den Besichtigungen, und meine Excel-Tabelle kann die österreichischen Nebenkosten und den Cashflow nach Steuer nur so halb. Für 19 € im Jahr probier ich das einfach bei den nächsten zwei, drei Wohnungen aus und nehm den PDF-Report mit zur Bank.",
-  "objection": "Ich tracke alles in Parqet und will nicht noch eine App, in der mein Vermögen verstreut liegt. Wenn das Portfolio nach dem Kauf nicht mit Parqet zusammenspielt, nutze ich Marille nach dem Kauf wahrscheinlich nicht mehr und kündige nach einem Jahr.",
-  "would_change_my_mind": "",
+  "reason_code": "need",
+  "reason": "Ich besichtige gerade Wohnungen, und 19 € sind nichts gegen einen Fehler bei einem Kauf um 250.000 €. Ich lass meine Excel-Tabelle gegen den Export laufen, und wenn sie sich nicht unterscheiden, hol ich mir einfach das Geld zurück.",
+  "objection": "Ich will alles in Parqet haben. Ein zweites Portfolio nur für die Wohnung will ich nicht pflegen, und nach dem Kauf brauch ich das Ding wahrscheinlich nicht mehr, weil meine Tabelle eh reicht.",
+  "would_change_my_mind": "Wenn ich am Beispiel-Report sehe, dass er nichts kann, was meine Excel-Tabelle nicht auch schon rechnet, kaufe ich nicht.",
   "price_too_cheap": 5,
   "price_cheap": 15,
-  "price_expensive": 40,
-  "price_too_expensive": 70
+  "price_expensive": 49,
+  "price_too_expensive": 90
 }

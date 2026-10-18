@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Ich bin gerade mitten in den Besichtigungen und rechne jede Wohnung in einer zusammengeflickten Excel-Tabelle durch. 19 Euro im Jahr sind weniger als ein Abendessen, das probier ich einfach aus, auch wenn es keine Gratisversion gibt.",
+  "objection": "19 Euro sind so billig, dass ich mich frage, ob die Steuerberechnung und die Kaufnebenkosten wirklich stimmen oder ob das ein Hobbyprojekt ist, das in einem Jahr wieder weg ist. Wenn die Zahlen falsch sind, ist mir der PDF-Report fürs Bankgespräch eher peinlich als hilfreich.",
+  "would_change_my_mind": "Wenn ich vorher ein Beispiel-Report oder eine Beispielrechnung sehen könnte und daran merke, dass die Grunderwerbsteuer oder die Steuer auf den Cashflow falsch gerechnet ist, würde ich es lassen.",
+  "price_too_cheap": 5,
+  "price_cheap": 19,
+  "price_expensive": 59,
+  "price_too_expensive": 120
+}

@@ -3,11 +3,11 @@
   "buys": true,
   "purchases_first_month": 1,
   "reason_code": "need",
-  "reason": "Ich bin gerade mitten in den Besichtigungen und rechne jede Wohnung in einer zusammengeflickten Excel-Tabelle durch. 19 Euro im Jahr sind weniger als ein Abendessen, das probier ich einfach aus, auch wenn es keine Gratisversion gibt.",
-  "objection": "19 Euro sind so billig, dass ich mich frage, ob die Steuerberechnung und die Kaufnebenkosten wirklich stimmen oder ob das ein Hobbyprojekt ist, das in einem Jahr wieder weg ist. Wenn die Zahlen falsch sind, ist mir der PDF-Report fürs Bankgespräch eher peinlich als hilfreich.",
-  "would_change_my_mind": "Wenn ich vorher ein Beispiel-Report oder eine Beispielrechnung sehen könnte und daran merke, dass die Grunderwerbsteuer oder die Steuer auf den Cashflow falsch gerechnet ist, würde ich es lassen.",
+  "reason": "Ich besichtige gerade Wohnungen und rechne jede in meiner eigenen Excel nach, mit Fehlern bei den Nebenkosten und der Steuer. Ich schau mir zuerst den Beispiel-Report an, und wenn der passt, sind 19 Euro mit 30 Tagen Geld zurück für mich kein Risiko.",
+  "objection": "19 Euro im Jahr ist fast verdächtig billig. Ich frag mich, ob da ein einzelner Gründer dahinter steht, der in zwei Jahren aufhört, und ob die Steuerrechnung wirklich stimmt oder nur grob geschätzt ist.",
+  "would_change_my_mind": "Wenn der Beispiel-Report bei der Steuer oder den Kaufnebenkosten Zahlen zeigt, die nicht mit meiner eigenen Rechnung oder dem Finanzfluss-Wissen zusammenpassen, kaufe ich nicht.",
   "price_too_cheap": 5,
-  "price_cheap": 19,
+  "price_cheap": 15,
   "price_expensive": 59,
   "price_too_expensive": 120
 }

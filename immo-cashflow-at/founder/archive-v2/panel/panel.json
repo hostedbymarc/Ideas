@@ -1,0 +1,89 @@
+{
+ "n": 20,
+ "seed": 555280,
+ "customer": {
+  "business": "Marille: Web-App für Erstinvestoren in Österreich (Deal-Analyse vor dem Kauf + Portfolio-Tracking danach), 19 € pro Jahr",
+  "target": "Erstinvestoren in Österreich, 25 bis 45, die ihre erste Vorsorge- oder Anlagewohnung suchen oder sie in den letzten zwölf Monaten gekauft haben, Schwerpunkt Wien",
+  "where": "Österreich, Schwerpunkt Wien; Einkommen in Euro brutto pro Jahr",
+  "age": [
+   25,
+   45
+  ],
+  "segments": [
+   {
+    "name": "Sucht gerade die erste Anlagewohnung (Besichtigungen laufen)",
+    "share": 0.55,
+    "income": [
+     40000,
+     90000
+    ]
+   },
+   {
+    "name": "Hat die erste Anlagewohnung in den letzten 12 Monaten gekauft",
+    "share": 0.25,
+    "income": [
+     45000,
+     90000
+    ]
+   },
+   {
+    "name": "Überlegt noch, ob eine Anlagewohnung überhaupt in Frage kommt",
+    "share": 0.2,
+    "income": [
+     40000,
+     75000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Excel-Bastler",
+    "share": 0.2,
+    "how": "Baut sich lieber selbst eine Tabelle, als für Software zu zahlen."
+   },
+   {
+    "name": "Finanz-Content-Konsument",
+    "share": 0.2,
+    "how": "Schaut Finanzfluss, hört Immo-Podcasts, probiert neue Finanz-Apps aus."
+   },
+   {
+    "name": "Verlässt sich auf Profis",
+    "share": 0.18,
+    "how": "Lässt Bankberater, Kreditvermittler oder Makler rechnen."
+   },
+   {
+    "name": "Gratis-Nutzer",
+    "share": 0.15,
+    "how": "Nimmt die kostenlosen Online-Rechner und zahlt fast nie für Software."
+   },
+   {
+    "name": "Vorsichtiger Prüfer",
+    "share": 0.15,
+    "how": "Will wissen, wer dahintersteht, und liest Bewertungen, bevor er Daten eingibt."
+   },
+   {
+    "name": "Bereits Parqet-Nutzer",
+    "share": 0.12,
+    "how": "Trackt ETFs in Parqet und will alles an einem Ort."
+   }
+  ],
+  "objections": [
+   "Es gibt kostenlose Vorsorgewohnungs-Rechner für Österreich, wozu zahlen?",
+   "Ich kaufe einmal eine Wohnung, wozu ein Jahresabo?",
+   "Die Bank und der Kreditvermittler rechnen mir das sowieso vor",
+   "Keine Gratisversion, ich kann es vorher nicht ausprobieren",
+   "Stimmen die Zahlen wirklich für Österreich (Grunderwerbsteuer, Eintragungsgebühr, AfA, Mietpreisdeckel)?",
+   "Wer steht dahinter, ist das seriös, und wo landen meine Kreditdaten?",
+   "Meine Excel-Tabelle reicht",
+   "19 Euro sind so billig, kann das gut sein?"
+  ],
+  "habits": [
+   "du scrollst abends durch willhaben-Immobilieninserate",
+   "du hast nächste Woche einen Besichtigungstermin",
+   "du hast nächsten Monat das Finanzierungsgespräch bei der Bank",
+   "du checkst sonntags dein ETF-Depot in einer App",
+   "du hast vor ein paar Monaten gekauft und fragst dich, ob sich die Wohnung rechnet"
+  ]
+ },
+ "pitch": "Marille, eine Web-App für Erstinvestoren in Österreich.\nDeal-Analyse vor dem Kauf: Kaufpreis, Miete und Kredit eingeben. Du siehst österreichische Kaufnebenkosten einzeln (Grunderwerbsteuer, Grundbuch, Pfandrecht, Makler, Vertrag), deinen monatlichen Cashflow nach Kreditrate und Steuer, wie viel die Tilgung an Vermögen aufbaut, Bank-Kennzahlen wie Beleihungsauslauf und einen Investment-Score von 0 bis 100. Dazu ein PDF-Report für das Bankgespräch.\nNach dem Kauf: Mit einem Klick ins Portfolio übernehmen und sehen, was deine Wohnung wert ist, wie viel getilgt ist, wie viel Kredit offen ist und was sie jeden Monat bringt.\nPreis: 19 € pro Jahr für alles. Es gibt keine Gratisversion.\n(Die Preisfragen unten beziehen sich auf den Jahrespreis.)"
+}

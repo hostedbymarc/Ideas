@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "timing",
+  "reason": "Ich hab nächsten Monat das Bankgespräch und schau mir gerade Wohnungen an, da sind 19 € für einen sauberen Kaufnebenkosten- und Cashflow-Check plus PDF für die Bank fast nichts. Aber ich schau mir vorher Impressum und wer dahintersteht genau an und rechne eine Wohnung, die ich schon kenne, gegen meine eigene Excel nach.",
+  "objection": "Ich weiß nicht, wer hinter Marille steckt und ob die österreichischen Zahlen wirklich stimmen, also Grunderwerbsteuer, Eintragungsgebühr, AfA und vor allem ob der Mietpreisdeckel bei Altbau berücksichtigt wird. Ohne Bewertungen und ohne Gratisversion zum Testen gebe ich ungern meine Finanzierungsdaten ein.",
+  "would_change_my_mind": "Wenn ich kein Impressum mit einer echten österreichischen Firma oder Person finde, oder keine Erklärung, wie AfA und Richtwertmiete gerechnet werden, kaufe ich nicht.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 49,
+  "price_too_expensive": 99
+}

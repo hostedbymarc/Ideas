@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Meine Wohnung hab ich schon gekauft, die Deal-Analyse brauch ich also gerade nicht, und für das Portfolio-Tracking soll ich meine Kreditdaten bei einer App eingeben, von der ich nicht weiß, wer dahintersteht. Ohne Gratisversion und ohne Bewertungen zahl ich nicht einmal 19 Euro, nur um herauszufinden, ob das seriös ist.",
+  "objection": "Wer betreibt Marille, wo liegen meine Kredit- und Wohnungsdaten, und gibt es echte Erfahrungsberichte von anderen Anlegern in Österreich? Ich will nicht zahlen und meine Daten hergeben, bevor ich das Ding überhaupt gesehen habe.",
+  "would_change_my_mind": "Ein klar sichtbares Impressum mit österreichischer Firma, Datenspeicherung in der EU und eine Testmöglichkeit oder ein Beispiel-Report, bevor ich zahle, plus ein paar echte Bewertungen.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 39,
+  "price_too_expensive": 69
+}

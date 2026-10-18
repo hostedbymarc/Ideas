@@ -2,12 +2,12 @@
   "id": "P014",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "Ich lass das sowieso meinen Bankberater und den Kreditvermittler durchrechnen, die machen das beruflich. 19 Euro sind nicht viel, aber ohne es vorher testen zu können zahl ich nicht für eine App, von der ich nicht weiß, ob ihre Zahlen stimmen.",
-  "objection": "Keine Gratisversion. Ich kann nicht sehen, ob die Rechnung mit meinen Inseraten auf willhaben überhaupt sinnvoll rauskommt, bevor ich zahle, und ob die Bank so einen PDF-Report ernst nimmt.",
-  "would_change_my_mind": "Wenn ich eine Wohnung gratis durchrechnen könnte und das Ergebnis mit dem übereinstimmt, was mir mein Bankberater sagt.",
-  "price_too_cheap": 3,
-  "price_cheap": 10,
-  "price_expensive": 29,
-  "price_too_expensive": 49
+  "reason_code": "habit",
+  "reason": "Ich lass das eh meinen Bankberater und den Kreditvermittler durchrechnen, die machen das jeden Tag. Dass ich selbst Miete, Steuer und Tilgung eintippe und dann einem Score glauben soll, ist ehrlich gesagt nicht meine Art, auch wenn 19 Euro nicht viel sind.",
+  "objection": "Keine Gratisversion, ich kann nicht mit meiner eigenen Wohnung ausprobieren, ob ich mit den Eingaben überhaupt zurechtkomme. Und ob die Bank einen Report von irgendeinem Tool überhaupt anschaut, weiß ich nicht.",
+  "would_change_my_mind": "Wenn mein Bankberater oder Kreditvermittler sagt, dass er mit so einem Report arbeitet oder ihn gern sieht, oder wenn ich eine Wohnung vom Inserat gratis einmal durchrechnen könnte.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 39,
+  "price_too_expensive": 69
 }

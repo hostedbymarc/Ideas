@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "Ich hab meine Wohnung mit den gratis Rechnern durchgerechnet und für das Bankgespräch rechnet mir die Bank bzw. der Kreditvermittler eh alles vor. Für Software zahl ich praktisch nie, und ohne Gratisversion probier ich es nicht einmal aus.",
-  "objection": "Ich kann nicht testen, ob die Zahlen stimmen, bevor ich zahle, und die Bank glaubt am Ende sowieso nur ihrer eigenen Rechnung, nicht einem PDF von einer App, die ich nicht kenne.",
-  "would_change_my_mind": "Eine Gratisversion, mit der ich meine eigene Wohnung einmal durchrechnen kann und sehe, dass die Kaufnebenkosten und der Cashflow mit meinem Kaufvertrag zusammenpassen.",
+  "reason": "Ich hab meine Wohnung schon gekauft und mit den Gratis-Rechnern und meiner eigenen Excel durchgerechnet, und für das Gespräch nächsten Monat rechnet mir die Bank den Kredit sowieso vor. 19 € sind nicht viel, aber ich zahle grundsätzlich nicht für etwas, das ich gratis auch irgendwie hinkriege.",
+  "objection": "Keine Gratisversion. Ich will nicht zuerst meine Karte hergeben müssen, nur um zu sehen, ob mir das mehr sagt als die Bank und mein Kreditvermittler.",
+  "would_change_my_mind": "Wenn ich meine eigene Wohnung einmal gratis durchrechnen könnte und dabei sehe, dass die Bank oder mein Rechner etwas Wichtiges übersehen hat, zum Beispiel bei der Steuer oder beim Cashflow.",
   "price_too_cheap": 3,
   "price_cheap": 9,
-  "price_expensive": 19,
-  "price_too_expensive": 35
+  "price_expensive": 25,
+  "price_too_expensive": 40
 }

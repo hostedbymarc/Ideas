@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "timing",
+  "reason": "Ich besichtige gerade Wohnungen und meine Excel-Tabelle hat die österreichischen Nebenkosten und die Steuer nur grob drin. 19 € ist weniger als ein Abendessen, und wenn mir der PDF-Report beim Bankgespräch hilft oder mich vor einem schlechten Deal bewahrt, hat es sich schon gelohnt.",
+  "objection": "Ich tracke alles in Parqet und will nicht noch eine App für das Portfolio. Den Portfolio-Teil brauche ich eigentlich nicht, wenn das nicht mit Parqet verbunden ist, und ohne Gratisversion weiß ich nicht, ob die Rechnung besser ist als mein Excel.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 49,
+  "price_too_expensive": 89
+}

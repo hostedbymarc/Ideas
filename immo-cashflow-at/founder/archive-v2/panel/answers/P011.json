@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Brauchen könnte ich das genau jetzt, mit dem Bankgespräch nächsten Monat. Aber ich kenne Marille nicht, finde keine Bewertungen und weiß nicht, wer dahintersteht, und ohne Gratisversion gebe ich meine Kreditdaten da nicht einfach ein.",
+  "objection": "19 Euro im Jahr für Steuer, Kaufnebenkosten und Bank-Kennzahlen klingt fast zu billig. Wenn die Berechnung falsch ist und ich mit einem falschen PDF zur Bank gehe, kostet mich das viel mehr als 19 Euro.",
+  "would_change_my_mind": "Ein klares Impressum mit echten Personen, am besten mit Steuerberater- oder Finanzierungs-Hintergrund, echte Bewertungen von anderen Erstkäufern und ein Beispiel-Report, den ich mir ohne Anmeldung ansehen kann.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 49,
+  "price_too_expensive": 99
+}

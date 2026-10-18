@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "Ich lass das eh den Kreditvermittler und die Bank durchrechnen, die machen das jeden Tag und kennen die Zahlen besser als ich. Noch eine App mit Login brauch ich vor der Besichtigung nicht.",
-  "objection": "Die Bank und der Kreditvermittler rechnen mir das sowieso vor, und am Ende zählt eh, was die Bank sagt, nicht ein Score von 0 bis 100 aus einer App.",
-  "would_change_my_mind": "Wenn mir mein Kreditvermittler oder jemand, der schon gekauft hat, sagt, dass die Bank mit so einem Report schneller oder besser finanziert, oder dass ihre Rechnung bei Kaufnebenkosten oder Steuer was übersieht.",
-  "price_too_cheap": 3,
-  "price_cheap": 10,
-  "price_expensive": 39,
-  "price_too_expensive": 69
+  "reason": "Ehrlich gesagt rechne ich so etwas nicht selbst. Mein Kreditvermittler und die Bank legen mir die Rate und die Nebenkosten sowieso hin, und der Makler hat eine Renditeberechnung im Exposé. Ein weiteres Tool, in das ich alles selbst eintippen muss, passt nicht zu mir.",
+  "objection": "Ich verstehe Beleihungsauslauf und Steuer-Cashflow selbst nicht gut genug, um zu beurteilen, ob das Tool oder die Bank recht hat. Am Ende glaube ich dann doch dem Profi, der mir gegenübersitzt.",
+  "would_change_my_mind": "Wenn mein Kreditvermittler oder ein Freund, der schon eine Anlagewohnung hat, sagt, dass die Bankrechnung oft zu schön ist und ich das vorher gegenprüfen soll, dann zahle ich die 19 Euro vor der Besichtigung ohne nachzudenken.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 49,
+  "price_too_expensive": 99
 }

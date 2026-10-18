@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "Ich weiß noch nicht mal, ob ich überhaupt eine Anlagewohnung kaufe, und für so etwas zahle ich normalerweise nichts. Die Bank rechnet mir im Gespräch nächsten Monat eh alles vor, und für Nebenkosten und Cashflow gibt es gratis Rechner im Netz.",
-  "objection": "Keine Gratisversion. Ich soll zahlen, bevor ich sehe, ob mir das mehr bringt als die kostenlosen Rechner und das, was mir die Bank sowieso zeigt.",
-  "would_change_my_mind": "Eine kostenlose Probe-Analyse für eine konkrete Wohnung, bei der ich sehe, dass sie Dinge zeigt, die mir die Bank nicht sagt, zum Beispiel den echten Cashflow nach Steuer.",
+  "reason": "Ich weiß ja noch nicht mal, ob ich überhaupt eine Anlagewohnung kaufe. Bis dahin reichen mir die Gratis-Rechner, und beim Bankgespräch rechnet mir die Bank das sowieso vor.",
+  "objection": "Ich zahle grundsätzlich nicht für Rechner, wenn es online kostenlose gibt, und ohne Gratisversion kann ich nicht einfach mal reinschauen, ob mir das mehr sagt als die Bank.",
+  "would_change_my_mind": "Wenn ich nach dem Beispiel-Report merke, dass die Gratis-Rechner und die Bank wichtige Kosten oder die Steuer weglassen und ich konkret eine Wohnung im Auge habe, würde ich es mit der Geld-zurück-Garantie vor dem Bankgespräch probieren.",
   "price_too_cheap": 3,
   "price_cheap": 9,
-  "price_expensive": 25,
-  "price_too_expensive": 40
+  "price_expensive": 19,
+  "price_too_expensive": 39
 }

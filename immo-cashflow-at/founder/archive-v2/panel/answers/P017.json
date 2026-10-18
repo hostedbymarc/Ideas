@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Meine Excel-Tabelle mit Grunderwerbsteuer, Grundbucheintragung, Pfandrecht und Maklerprovision hab ich schon fast fertig, und für die Kreditrate gibt's gratis Rechner. 19 € tun nicht weh, aber ich zahl nicht für etwas, das ich mir selbst bauen kann und dann auch verstehe.",
+  "objection": "Ich weiß nicht, wie der Investment-Score und die Steuer berechnet werden. Wenn ich die Formeln nicht sehe, trau ich der Zahl nicht mehr als meiner eigenen Tabelle, und ohne Gratisversion kann ich das vorher nicht prüfen.",
+  "would_change_my_mind": "Wenn ich einen Beispiel-PDF-Report sehen könnte, den eine Bank in Wien tatsächlich gut findet, und die Berechnungen offen nachvollziehbar sind, würde ich die 19 € vor dem Finanzierungsgespräch wahrscheinlich doch zahlen.",
+  "price_too_cheap": 3,
+  "price_cheap": 9,
+  "price_expensive": 29,
+  "price_too_expensive": 49
+}

@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "June",
+  "age": 29,
+  "segment": "Hat die erste Anlagewohnung in den letzten 12 Monaten gekauft",
+  "income": 56000,
+  "behaviour": "Vorsichtiger Prüfer",
+  "behaviour_how": "Will wissen, wer dahintersteht, und liest Bewertungen, bevor er Daten eingibt.",
+  "objection": "Wer steht dahinter, ist das seriös, und wo landen meine Kreditdaten?",
+  "habit": "du scrollst abends durch willhaben-Immobilieninserate"
+ },
+ {
+  "id": "P002",
+  "name": "Maeve",
+  "age": 28,
+  "segment": "Überlegt noch, ob eine Anlagewohnung überhaupt in Frage kommt",
+  "income": 54000,
+  "behaviour": "Verlässt sich auf Profis",
+  "behaviour_how": "Lässt Bankberater, Kreditvermittler oder Makler rechnen.",
+  "objection": "Meine Excel-Tabelle reicht",
+  "habit": "du hast vor ein paar Monaten gekauft und fragst dich, ob sich die Wohnung rechnet"
+ },
+ {
+  "id": "P003",
+  "name": "Omar",
+  "age": 37,
+  "segment": "Hat die erste Anlagewohnung in den letzten 12 Monaten gekauft",
+  "income": 70000,
+  "behaviour": "Excel-Bastler",
+  "behaviour_how": "Baut sich lieber selbst eine Tabelle, als für Software zu zahlen.",
+  "objection": "Es gibt kostenlose Vorsorgewohnungs-Rechner für Österreich, wozu zahlen?",
+  "habit": "du hast nächste Woche einen Besichtigungstermin"
+ },
+ {
+  "id": "P004",
+  "name": "Ethan",
+  "age": 44,
+  "segment": "Sucht gerade die erste Anlagewohnung (Besichtigungen laufen)",
+  "income": 74000,
+  "behaviour": "Bereits Parqet-Nutzer",
+  "behaviour_how": "Trackt ETFs in Parqet und will alles an einem Ort.",
+  "objection": "Meine Excel-Tabelle reicht",
+  "habit": "du scrollst abends durch willhaben-Immobilieninserate"
+ },
+ {
+  "id": "P005",
+  "name": "Caleb",
+  "age": 28,
+  "segment": "Sucht gerade die erste Anlagewohnung (Besichtigungen laufen)",
+  "income": 71000,
+  "behaviour": "Verlässt sich auf Profis",
+  "behaviour_how": "Lässt Bankberater, Kreditvermittler oder Makler rechnen.",
+  "objection": "Die Bank und der Kreditvermittler rechnen mir das sowieso vor",
+  "habit": "du hast nächste Woche einen Besichtigungstermin"
+ },
+ {
+  "id": "P006",
+  "name": "Jonah",
+  "age": 32,
+  "segment": "Hat die erste Anlagewohnung in den letzten 12 Monaten gekauft",
+  "income": 69000,
+  "behaviour": "Gratis-Nutzer",
+  "behaviour_how": "Nimmt die kostenlosen Online-Rechner und zahlt fast nie für Software.",
+  "objection": "Wer steht dahinter, ist das seriös, und wo landen meine Kreditdaten?",
+  "habit": "du hast vor ein paar Monaten gekauft und fragst dich, ob sich die Wohnung rechnet"
+ },
+ {
+  "id": "P007",
+  "name": "Oscar",
+  "age": 43,
+  "segment": "Sucht gerade die erste Anlagewohnung (Besichtigungen laufen)",
+  "income": 66000,
+  "behaviour": "Bereits Parqet-Nutzer",
+  "behaviour_how": "Trackt ETFs in Parqet und will alles an einem Ort.",
+  "objection": "Meine Excel-Tabelle reicht",
+  "habit": "du checkst sonntags dein ETF-Depot in einer App"
+ },
+ {
+  "id": "P008",
+  "name": "Alma",
+  "age": 37,
+  "segment": "Hat die erste Anlagewohnung in den letzten 12 Monaten gekauft",
+  "income": 69000,
+  "behaviour": "Gratis-Nutzer",
+  "behaviour_how": "Nimmt die kostenlosen Online-Rechner und zahlt fast nie für Software.",
+  "objection": "Die Bank und der Kreditvermittler rechnen mir das sowieso vor",
+  "habit": "du hast nächsten Monat das Finanzierungsgespräch bei der Bank"
+ },
+ {
+  "id": "P009",
+  "name": "Lucia",
+  "age": 31,
+  "segment": "Überlegt noch, ob eine Anlagewohnung überhaupt in Frage kommt",
+  "income": 58000,
+  "behaviour": "Excel-Bastler",
+  "behaviour_how": "Baut sich lieber selbst eine Tabelle, als für Software zu zahlen.",
+  "objection": "Die Bank und der Kreditvermittler rechnen mir das sowieso vor",
+  "habit": "du checkst sonntags dein ETF-Depot in einer App"
+ },
+ {
+  "id": "P010",
+  "name": "Levi",
+  "age": 37,
+  "segment": "Hat die erste Anlagewohnung in den letzten 12 Monaten gekauft",
+  "income": 83000,
+  "behaviour": "Finanz-Content-Konsument",
+  "behaviour_how": "Schaut Finanzfluss, hört Immo-Podcasts, probiert neue Finanz-Apps aus.",
+  "objection": "Meine Excel-Tabelle reicht",
+  "habit": "du scrollst abends durch willhaben-Immobilieninserate"
+ },
+ {
+  "id": "P011",
+  "name": "Sienna",
+  "age": 25,
+  "segment": "Sucht gerade die erste Anlagewohnung (Besichtigungen laufen)",
+  "income": 43000,
+  "behaviour": "Vorsichtiger Prüfer",
+  "behaviour_how": "Will wissen, wer dahintersteht, und liest Bewertungen, bevor er Daten eingibt.",
+  "objection": "19 Euro sind so billig, kann das gut sein?",
+  "habit": "du hast nächsten Monat das Finanzierungsgespräch bei der Bank"
+ },
+ {
+  "id": "P012",
+  "name": "Jade",
+  "age": 39,
+  "segment": "Sucht gerade die erste Anlagewohnung (Besichtigungen laufen)",
+  "income": 79000,
+  "behaviour": "Verlässt sich auf Profis",
+  "behaviour_how": "Lässt Bankberater, Kreditvermittler oder Makler rechnen.",
+  "objection": "Stimmen die Zahlen wirklich für Österreich (Grunderwerbsteuer, Eintragungsgebühr, AfA, Mietpreisdeckel)?",
+  "habit": "du hast vor ein paar Monaten gekauft und fragst dich, ob sich die Wohnung rechnet"
+ },
+ {
+  "id": "P013",
+  "name": "Ivy",
+  "age": 32,
+  "segment": "Sucht gerade die erste Anlagewohnung (Besichtigungen laufen)",
+  "income": 54000,
+  "behaviour": "Finanz-Content-Konsument",
+  "behaviour_how": "Schaut Finanzfluss, hört Immo-Podcasts, probiert neue Finanz-Apps aus.",
+  "objection": "Die Bank und der Kreditvermittler rechnen mir das sowieso vor",
+  "habit": "du hast nächste Woche einen Besichtigungstermin"
+ },
+ {
+  "id": "P014",
+  "name": "Malik",
+  "age": 38,
+  "segment": "Sucht gerade die erste Anlagewohnung (Besichtigungen laufen)",
+  "income": 53000,
+  "behaviour": "Verlässt sich auf Profis",
+  "behaviour_how": "Lässt Bankberater, Kreditvermittler oder Makler rechnen.",
+  "objection": "Keine Gratisversion, ich kann es vorher nicht ausprobieren",
+  "habit": "du scrollst abends durch willhaben-Immobilieninserate"
+ },
+ {
+  "id": "P015",
+  "name": "Dev",
+  "age": 36,
+  "segment": "Sucht gerade die erste Anlagewohnung (Besichtigungen laufen)",
+  "income": 46000,
+  "behaviour": "Excel-Bastler",
+  "behaviour_how": "Baut sich lieber selbst eine Tabelle, als für Software zu zahlen.",
+  "objection": "Stimmen die Zahlen wirklich für Österreich (Grunderwerbsteuer, Eintragungsgebühr, AfA, Mietpreisdeckel)?",
+  "habit": "du hast nächsten Monat das Finanzierungsgespräch bei der Bank"
+ },
+ {
+  "id": "P016",
+  "name": "Emil",
+  "age": 39,
+  "segment": "Sucht gerade die erste Anlagewohnung (Besichtigungen laufen)",
+  "income": 70000,
+  "behaviour": "Vorsichtiger Prüfer",
+  "behaviour_how": "Will wissen, wer dahintersteht, und liest Bewertungen, bevor er Daten eingibt.",
+  "objection": "Stimmen die Zahlen wirklich für Österreich (Grunderwerbsteuer, Eintragungsgebühr, AfA, Mietpreisdeckel)?",
+  "habit": "du hast nächsten Monat das Finanzierungsgespräch bei der Bank"
+ },
+ {
+  "id": "P017",
+  "name": "Keisha",
+  "age": 35,
+  "segment": "Sucht gerade die erste Anlagewohnung (Besichtigungen laufen)",
+  "income": 54000,
+  "behaviour": "Excel-Bastler",
+  "behaviour_how": "Baut sich lieber selbst eine Tabelle, als für Software zu zahlen.",
+  "objection": "Es gibt kostenlose Vorsorgewohnungs-Rechner für Österreich, wozu zahlen?",
+  "habit": "du hast nächsten Monat das Finanzierungsgespräch bei der Bank"
+ },
+ {
+  "id": "P018",
+  "name": "Leah",
+  "age": 37,
+  "segment": "Überlegt noch, ob eine Anlagewohnung überhaupt in Frage kommt",
+  "income": 47000,
+  "behaviour": "Finanz-Content-Konsument",
+  "behaviour_how": "Schaut Finanzfluss, hört Immo-Podcasts, probiert neue Finanz-Apps aus.",
+  "objection": "Die Bank und der Kreditvermittler rechnen mir das sowieso vor",
+  "habit": "du hast vor ein paar Monaten gekauft und fragst dich, ob sich die Wohnung rechnet"
+ },
+ {
+  "id": "P019",
+  "name": "Olivia",
+  "age": 31,
+  "segment": "Überlegt noch, ob eine Anlagewohnung überhaupt in Frage kommt",
+  "income": 65000,
+  "behaviour": "Gratis-Nutzer",
+  "behaviour_how": "Nimmt die kostenlosen Online-Rechner und zahlt fast nie für Software.",
+  "objection": "Die Bank und der Kreditvermittler rechnen mir das sowieso vor",
+  "habit": "du hast nächsten Monat das Finanzierungsgespräch bei der Bank"
+ },
+ {
+  "id": "P020",
+  "name": "Darius",
+  "age": 43,
+  "segment": "Sucht gerade die erste Anlagewohnung (Besichtigungen laufen)",
+  "income": 58000,
+  "behaviour": "Finanz-Content-Konsument",
+  "behaviour_how": "Schaut Finanzfluss, hört Immo-Podcasts, probiert neue Finanz-Apps aus.",
+  "objection": "19 Euro sind so billig, kann das gut sein?",
+  "habit": "du checkst sonntags dein ETF-Depot in einer App"
+ }
+]

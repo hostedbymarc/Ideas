@@ -3,11 +3,11 @@
   "buys": true,
   "purchases_first_month": 1,
   "reason_code": "convenience",
-  "reason": "Ehrlich gesagt reicht meine Excel-Tabelle für die eine Wohnung, aber ich scroll abends eh durch willhaben nach der nächsten, und für 19 € im Jahr probier ich so eine App einfach aus, wenn mir die Nebenkosten und der Cashflow nach Steuer schneller durchgerechnet werden als in meinem Sheet.",
-  "objection": "Keine Gratisversion, also zahle ich, bevor ich weiß, ob die Steuer- und Cashflow-Rechnung wirklich stimmt und besser ist als mein eigenes Excel, und ob ich nach zwei Wochen nicht eh wieder in die Tabelle zurückgehe.",
-  "would_change_my_mind": "Wenn ich vor dem Zahlen sehe, dass die Zahlen falsch oder zu grob sind, zum Beispiel bei einem Testdeal, den ich selbst schon durchgerechnet habe, dann bleibe ich beim Excel.",
+  "reason": "Die erste Wohnung hab ich schon, aber ich scroll eh jeden Abend durch willhaben für die zweite. 19 € im Jahr mit Geld-zurück ist weniger als ein Abendessen, also teste ich es, lass meine bestehende Wohnung durchrechnen und vergleich das mit meiner Excel.",
+  "objection": "Meine Excel-Tabelle reicht eigentlich, und für die erste Wohnung kommt der Kauf-Check zu spät. Wenn die Zahlen nicht mit meiner Tabelle übereinstimmen oder die Steuerrechnung zu grob ist, kündige ich nach 30 Tagen.",
+  "would_change_my_mind": "Wenn der Beispiel-Report auf der Website nichts zeigt, was meine Excel nicht eh schon kann, z. B. keine saubere AfA- und Steuerrechnung, dann lass ich es.",
   "price_too_cheap": 5,
-  "price_cheap": 15,
+  "price_cheap": 19,
   "price_expensive": 49,
-  "price_too_expensive": 89
+  "price_too_expensive": 99
 }

@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Ehrlich gesagt reicht meine Excel-Tabelle für die eine Wohnung, aber ich scroll abends eh durch willhaben nach der nächsten, und für 19 € im Jahr probier ich so eine App einfach aus, wenn mir die Nebenkosten und der Cashflow nach Steuer schneller durchgerechnet werden als in meinem Sheet.",
+  "objection": "Keine Gratisversion, also zahle ich, bevor ich weiß, ob die Steuer- und Cashflow-Rechnung wirklich stimmt und besser ist als mein eigenes Excel, und ob ich nach zwei Wochen nicht eh wieder in die Tabelle zurückgehe.",
+  "would_change_my_mind": "Wenn ich vor dem Zahlen sehe, dass die Zahlen falsch oder zu grob sind, zum Beispiel bei einem Testdeal, den ich selbst schon durchgerechnet habe, dann bleibe ich beim Excel.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 49,
+  "price_too_expensive": 89
+}

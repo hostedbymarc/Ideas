@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich hab für meine erste Wohnung eh schon ein eigenes Excel mit Nebenkosten, Kreditrate und Cashflow gebaut, das nehm ich für die Besichtigung nächste Woche auch wieder her. 19 € tun nicht weh, aber ich seh nicht, was mir die App bringt, was mein Sheet und die Gratis-Rechner nicht schon können.",
+  "objection": "Ich kann nicht nachprüfen, wie die rechnen, vor allem die Steuer und dieser Score von 0 bis 100 sind für mich eine Blackbox. In meinem Excel seh ich jede Formel, und ohne Gratisversion kauf ich die Katze im Sack.",
+  "would_change_my_mind": "Eine Gratis-Testanalyse, wo ich meine echte Wohnung eingebe und die Zahlen mit meinem Excel vergleichen kann, plus Export nach Excel. Wenn die Steuerberechnung genauer ist als meine, zahl ich die 19 €.",
+  "price_too_cheap": 3,
+  "price_cheap": 10,
+  "price_expensive": 30,
+  "price_too_expensive": 50
+}

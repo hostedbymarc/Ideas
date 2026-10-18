@@ -2,12 +2,12 @@
   "id": "P009",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "need",
-  "reason": "Ich weiß ja noch nicht mal, ob ich überhaupt eine Anlagewohnung will. Die Nebenkosten und den Cashflow bau ich mir lieber selbst in Excel, und den Rest rechnet mir eh die Bank vor.",
-  "objection": "Keine Gratisversion. Ich zahl nicht für etwas, bevor ich gesehen hab, dass es mehr kann als meine eigene Tabelle, und ich bin ja erst am Überlegen, nicht am Kaufen.",
-  "would_change_my_mind": "Ein kostenloser Rechner für einen ersten Deal, bei dem ich sehe, dass die Steuer- und Nebenkostenrechnung genauer ist als meine Tabelle. Dann wären 19 Euro kein Thema, sobald ich wirklich eine Wohnung anschaue.",
+  "reason_code": "timing",
+  "reason": "Ich weiß ja noch nicht mal, ob eine Anlagewohnung für mich überhaupt in Frage kommt, und hab keine konkrete Wohnung, die ich durchrechnen müsste. Den Beispiel-Report schau ich mir vielleicht gratis an und bau mir die Positionen dann in meine eigene Tabelle.",
+  "objection": "Die Nebenkosten-Prozente und eine Kreditrate krieg ich in Excel selber hin, und die Bank rechnet mir den Rest sowieso vor, wofür also zahlen?",
+  "would_change_my_mind": "Wenn ich eine konkrete Wohnung im Auge hätte und vor der Unterschrift stehe, wäre mir die Steuer-Rechnung nach österreichischen Regeln die 19 € wert, weil ich das selbst nicht sicher hinbekomme.",
   "price_too_cheap": 3,
   "price_cheap": 10,
-  "price_expensive": 30,
-  "price_too_expensive": 50
+  "price_expensive": 25,
+  "price_too_expensive": 45
 }

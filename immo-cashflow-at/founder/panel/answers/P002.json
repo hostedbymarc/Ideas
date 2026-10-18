@@ -2,12 +2,12 @@
   "id": "P002",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "habit",
-  "reason": "Die Wohnung ist schon gekauft, die Bank und der Kreditvermittler haben mir das durchgerechnet, und für den Rest hab ich meine Excel-Tabelle. Die Deal-Analyse brauch ich jetzt nicht mehr, und für ein bisschen Portfolio-Übersicht meld ich mich nicht extra irgendwo an.",
-  "objection": "Ich weiß nicht, ob mir eine App mehr sagt als meine Tabelle und mein Bankberater. Und ohne Gratisversion zahl ich, bevor ich sehe, ob die Zahlen bei mir überhaupt stimmen.",
-  "would_change_my_mind": "Wenn mir jemand, dem ich vertraue, zum Beispiel mein Berater, zeigt, dass meine Rechnung bei Steuer oder Tilgung falsch ist und die App das sauber aufklärt.",
-  "price_too_cheap": 3,
-  "price_cheap": 10,
-  "price_expensive": 30,
-  "price_too_expensive": 50
+  "reason_code": "need",
+  "reason": "Ich hab die Wohnung schon gekauft, der Kauf-Check kommt für mich zu spät, und gerechnet haben damals eh die Bankberaterin und der Makler. Wie es jetzt läuft, sehe ich in meiner Excel-Tabelle und am Konto, dafür brauche ich kein eigenes Tool.",
+  "objection": "Ein Tool sagt mir jetzt auch nur, ob ich mich verkalkuliert habe, ändern kann ich daran nichts mehr. Und ich trau den Profis mehr als einem Score von 0 bis 100 von einem Ein-Mann-Projekt.",
+  "would_change_my_mind": "Wenn meine Bankberaterin oder mein Steuerberater es mir empfiehlt oder selbst damit arbeitet, oder wenn es mir konkret bei der Steuererklärung für die Vermietung hilft.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 35,
+  "price_too_expensive": 60
 }

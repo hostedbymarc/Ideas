@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Ich hab die Wohnung schon gekauft und weiß ehrlich nicht, ob sie sich nach Kreditrate und Steuer wirklich rechnet. Die Bank hat mir vorher was vorgerechnet, aber jetzt danach schaut keiner mehr drauf. Für 19 € im Jahr probier ich das aus, so wie ich andere Finanz-Apps auch ausprobiere.",
+  "objection": "Dass es keine Gratisversion gibt und ich nicht vorher sehen kann, ob die Steuer- und Cashflow-Rechnung für Österreich wirklich stimmt oder ob ich am Ende eh wieder in meiner Excel-Tabelle lande. Die Deal-Analyse vor dem Kauf brauch ich ja eigentlich nicht mehr.",
+  "would_change_my_mind": "Wenn ich nach dem ersten Eingeben merke, dass die Zahlen nicht zu meinem Kreditvertrag und meiner Steuererklärung passen, kündige ich und verlängere nicht.",
+  "price_too_cheap": 3,
+  "price_cheap": 10,
+  "price_expensive": 39,
+  "price_too_expensive": 70
+}

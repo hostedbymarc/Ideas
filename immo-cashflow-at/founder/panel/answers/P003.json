@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "Ich hab für meine erste Wohnung eh schon ein eigenes Excel mit Nebenkosten, Kreditrate und Cashflow gebaut, das nehm ich für die Besichtigung nächste Woche auch wieder her. 19 € tun nicht weh, aber ich seh nicht, was mir die App bringt, was mein Sheet und die Gratis-Rechner nicht schon können.",
-  "objection": "Ich kann nicht nachprüfen, wie die rechnen, vor allem die Steuer und dieser Score von 0 bis 100 sind für mich eine Blackbox. In meinem Excel seh ich jede Formel, und ohne Gratisversion kauf ich die Katze im Sack.",
-  "would_change_my_mind": "Eine Gratis-Testanalyse, wo ich meine echte Wohnung eingebe und die Zahlen mit meinem Excel vergleichen kann, plus Export nach Excel. Wenn die Steuerberechnung genauer ist als meine, zahl ich die 19 €.",
+  "reason": "Ich hab mir für meine erste Wohnung eh schon eine Excel gebaut, mit Grunderwerbsteuer, Grundbuch, Pfandrecht und AfA. Für die Besichtigung nächste Woche schau ich mir euren Gratis-Beispielreport an, gleich meine Formeln damit ab und rechne dann in meiner eigenen Tabelle weiter.",
+  "objection": "Der Beispielreport gibt mir schon fast alles, was ich wissen will, und die kostenlosen Vorsorgewohnungs-Rechner gibt's auch. Was mir das Tool zusätzlich bringt, kann ich mir selbst in die Tabelle einbauen, und meiner eigenen Rechnung trau ich mehr als einem Score von 0 bis 100.",
+  "would_change_my_mind": "Wenn mir der Vergleich mit dem Beispielreport zeigt, dass meine Tabelle bei der Steuer oder beim Cashflow falsch rechnet, oder wenn das Tool Daten liefert, die ich selbst nicht habe, zum Beispiel realistische Vergleichsmieten und Marktwerte für die konkrete Wiener Lage.",
   "price_too_cheap": 3,
   "price_cheap": 10,
-  "price_expensive": 30,
-  "price_too_expensive": 50
+  "price_expensive": 35,
+  "price_too_expensive": 60
 }

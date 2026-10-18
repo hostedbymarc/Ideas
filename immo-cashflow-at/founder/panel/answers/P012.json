@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "Ich lasse das Rechnen eigentlich meinen Bankberater und den Kreditvermittler machen, die kennen meine Zahlen schon. 19 € tun nicht weh, aber ich zahle nicht für eine App, von der ich nicht weiß, ob sie österreichisch richtig rechnet, wenn ich sie vorher nicht einmal ansehen kann.",
-  "objection": "Rechnet das wirklich mit österreichischen Regeln, also Grunderwerbsteuer, Eintragungsgebühr, AfA und Mietpreisdeckel beim Altbau, und wer steht dahinter? Wenn der Cashflow nach Steuer falsch ist, glaube ich lieber meinem Berater.",
-  "would_change_my_mind": "Wenn ich ohne Bezahlung eine Beispielrechnung für eine Wiener Wohnung sehe, die mit dem übereinstimmt, was mir Bank und Steuerberater gesagt haben, oder wenn mein Berater mir die App empfiehlt.",
+  "reason": "Ich rechne so etwas nicht selbst, das machen bei mir der Bankberater und der Kreditvermittler. Die 19 € sind nicht das Problem, aber ich würde Kaufpreis, Kredit und Steuer gar nicht sicher eingeben können und dann trotzdem wieder die Bank fragen.",
+  "objection": "Wenn das Tool zu einem anderen Ergebnis kommt als meine Bank, wem glaube ich dann? Ein unbekannter Gründer gegen meinen Berater, da vertraue ich eher dem Profi, auch wenn die österreichischen Positionen aufgelistet sind.",
+  "would_change_my_mind": "Wenn mein Bankberater oder Makler mir den Report selbst empfiehlt oder damit arbeitet, oder wenn ich die Daten meiner schon gekauften Wohnung einfach aus dem Kreditvertrag übernehmen könnte und es mir in einfachen Worten sagt, ob sie sich rechnet.",
   "price_too_cheap": 5,
   "price_cheap": 15,
-  "price_expensive": 49,
-  "price_too_expensive": 99
+  "price_expensive": 39,
+  "price_too_expensive": 69
 }
